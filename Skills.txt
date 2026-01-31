@@ -1,0 +1,1000 @@
+Data Analysis
+Creativity
+Innovation
+Case Studies
+Artificial Intelligence
+Communication
+Storytelling
+Cultural Diversity
+Video Editing
+Animations
+Data Visualization
+Decision Making
+Data Management
+Governance
+Python Programming
+Data Ethics
+File Management
+Generative AI
+Mathematical Modeling
+Public Health
+Research
+World History
+Debugging
+Content Creation
+Economics
+Model Evaluation
+Post-Production
+International Relations
+Leadership
+Personal Development
+Responsible AI
+Video Production
+Algorithms
+Automation
+Cinematography
+Color Theory
+Microsoft Excel
+Political Sciences
+Data Visualization Software
+Nutrition and Diet
+Prompt Engineering
+Scalability
+Motion Graphics
+Network Security
+Self-Awareness
+Social Sciences
+Cybersecurity
+Performance Tuning
+Sustainable Development
+Biology
+Data Import/Export
+Data-Driven Decision-Making
+Ethical Standards And Conduct
+Risk Management
+Typography
+Health Policy
+Policy Analysis
+Statistical Analysis
+Timelines
+User Interface (UI)
+Applied Mathematics
+Environmental Science
+Marketing
+Risk Analysis
+ChatGPT
+Data Manipulation
+Data Presentation
+Editing
+Image Quality
+Network Protocols
+Professional Development
+Web Applications
+Competitive Analysis
+Emerging Technologies
+Environment
+Finance
+Machine Learning
+Resilience
+Socioeconomics
+AI Enablement
+Adaptability
+Business Analytics
+Business Strategy
+Digital Transformation
+Scripting
+Social Determinants Of Health
+Social Justice
+Spreadsheet Software
+Adobe After Effects
+Analysis
+Application Deployment
+Application Programming Interface (API)
+Business Transformation
+Culture
+Data Security
+Financial Analysis
+Forecasting
+Front-End Web Development
+Goal Setting
+Image Analysis
+Performance Measurement
+Productivity
+Project Management
+Responsive Web Design
+Social Impact
+Strategic Leadership
+Strategic Thinking
+Adobe Photoshop
+Application Security
+Business Modeling
+Calculus
+Command-Line Interface
+Community Health
+Dashboard
+Design Elements And Principles
+Large Language Modeling
+Photography
+Predictive Modeling
+Regression Analysis
+Storyboarding
+Stress Management
+Target Audience
+Verbal Communication Skills
+Writing
+Applied Machine Learning
+CI/CD
+Cascading Style Sheets (CSS)
+Change Management
+Collaboration
+Communication Strategies
+Conflict Management
+Data Storytelling
+Data Structures
+Emotional Intelligence
+Epidemiology
+Excel Formulas
+Graph Theory
+Interviewing Skills
+Investments
+Law, Regulation, and Compliance
+Market Dynamics
+Marketing Strategies
+Media and Communications
+Mobile Development
+Physics
+Relationship Building
+SQL
+Scientific Methods
+Stakeholder Engagement
+Team Leadership
+Visualization (Computer Graphics)
+Web Development
+3D Modeling
+Application Development
+Big Data
+Containerization
+Data Cleansing
+Databases
+Health Disparities
+Information Privacy
+Javascript
+Leadership Development
+Programming Principles
+Psychology
+Social Studies
+Systems Thinking
+Trend Analysis
+Advocacy
+Branding
+Cloud Computing
+Cloud Deployment
+Computational Thinking
+Computer Graphics
+Consumer Behaviour
+Continuous Monitoring
+Data Collection
+Data Modeling
+Data Science
+Deep Learning
+Design
+Development Environment
+Economic Development
+Engineering Analysis
+Engineering Calculations
+Exploratory Data Analysis
+Grammar
+Graphic and Visual Design
+Interpersonal Communications
+LLM Application
+Layout Design
+Linux
+Mindfulness
+Natural Language Processing
+Negotiation
+Organizational Change
+Organizational Leadership
+Performance Analysis
+Physiology
+Problem Solving
+Productivity Software
+Public Health and Disease Prevention
+Public Policies
+Restful API
+Return On Investment
+Statistical Methods
+System Configuration
+User Interface (UI) Design
+Advanced Mathematics
+Analytics
+Authentications
+Business Intelligence
+Collaborative Software
+Critical Thinking
+Document Management
+English Language
+Financial Modeling
+General Networking
+HTML and CSS
+Mechanics
+Operational Efficiency
+Organizational Skills
+Photo/Video Production and Technology
+Portfolio Management
+Prototyping
+Scheduling
+Security Controls
+Social Media Marketing
+TCP/IP
+3D Assets
+Agile Methodology
+Asset Management
+Brand Management
+Business Ethics
+Climate Change Mitigation
+Computer Programming
+Computer Vision
+Data Governance
+Data Processing
+Data Storage
+Data Transformation
+Hypertext Markup Language (HTML)
+Infectious Diseases
+Interactive Data Visualization
+Investment Management
+Mental Health
+Microsoft 365
+Microsoft Office
+Model Deployment
+Network Analysis
+Organizational Strategy
+Peer Review
+Pivot Tables And Charts
+Planning
+Probability & Statistics
+Social Media
+Software Development
+Stakeholder Management
+Team Management
+Technology Strategies
+Version Control
+Vulnerability Assessments
+Web Design
+Web Design and Development
+Workflow Management
+Ancient History
+Art History
+Artificial Neural Networks
+Behavioral Economics
+Continuous Integration
+Creative Thinking
+Customer Analysis
+Customer Engagement
+Data Preprocessing
+Data Validation
+Design Thinking
+Diversity and Inclusion
+Docker (Software)
+Empathy
+Energy and Utilities
+European History
+GitHub
+Graphic Design
+Health Care
+Internet Of Things
+Key Performance Indicators (KPIs)
+Leadership and Management
+Market Analysis
+Object Oriented Programming (OOP)
+Operations Management
+Photo Editing
+Presentations
+Resource Allocation
+Search Engine Optimization
+Software Architecture
+Software Installation
+System Monitoring
+Threat Detection
+UI Components
+Virtual Environment
+Vocabulary
+Web Analytics and SEO
+Web Development Tools
+AI Workflows
+Active Listening
+Anthropology
+Business Valuation
+Cognitive flexibility
+Configuration Management
+Creative Design
+Cross-Functional Collaboration
+Cyber Attacks
+Data Entry
+Data Quality
+Database Management
+DevOps
+Digital Marketing
+Entrepreneurship
+Equities
+Experimentation
+Financial Market
+Health Equity
+Health Systems
+JSON
+Language Learning
+Linear Algebra
+Maintainability
+Network Infrastructure
+Organizational Structure
+Physical Science
+Probability
+Probability Distribution
+Sociology
+Stakeholder Communications
+Statistical Inference
+Statistical Modeling
+Supply Chain
+Team Building
+Tensorflow
+Transfer Learning
+User Story
+Artificial Intelligence and Machine Learning (AI/ML)
+Brand Strategy
+Business Communication
+Cloud Computing Architecture
+Constructive Feedback
+Customer Insights
+Data Analysis Software
+Data Integration
+Encryption
+Environment and Resource Management
+Financial Statements
+Generative AI Agents
+Git (Version Control System)
+Graphical Tools
+Growth Mindedness
+Instagram
+Intellectual Property
+Keyword Research
+Kubernetes
+Network Troubleshooting
+No-Code Development
+Nutrition Education
+Professional Networking
+Research Design
+Research Methodologies
+Sampling (Statistics)
+Social Media Strategy
+Software Design
+Statistics
+Supply Chain Management
+Sustainable Business
+System Programming
+Theoretical Computer Science
+Time Series Analysis and Forecasting
+Value Propositions
+Verification And Validation
+Virtual Machines
+Writing and Editing
+AI Product Strategy
+Accounting
+Advertising
+Aesthetics
+Agile Project Management
+Apple iOS
+Brand Awareness
+Business Analysis
+Business Leadership
+Business Risk Management
+Business Writing
+Chronic Diseases
+Classification Algorithms
+Climate Change Adaptation
+Computer Security Incident Management
+Continuous Improvement Process
+Cultural Sensitivity
+Database Design
+Diversity Awareness
+Emergency Response
+Environmental Issue
+Environmental Policy
+Figma (Design Software)
+Game Design
+Geographic Information Systems
+Healthcare Ethics
+Human Development
+Incident Response
+Integral Calculus
+Java
+Lifelong Learning
+Logo Design
+Marketing Analytics
+Mathematical Theory & Analysis
+Microservices
+Music
+Network Administration
+Network Architecture
+Numerical Analysis
+Oncology
+Operating Systems
+Process Optimization
+Product Development
+Product Lifecycle Management
+Project Schedules
+Query Languages
+Rapport Building
+React.js
+Real Time Data
+Regulatory Compliance
+Retrieval-Augmented Generation
+Sales
+Sales Strategy
+Simulations
+Software Testing
+Supervised Learning
+Sustainability Standards
+Sustainable Technologies
+Technical Communication
+Telecommunications
+Time Management
+Unsupervised Learning
+User Experience Design
+Virtual Teams
+Web Content Accessibility Guidelines
+AI Personalization
+Analytical Skills
+Android Development
+Augmented and Virtual Reality (AR/VR)
+Authorization (Computing)
+B2B Sales
+Benchmarking
+Blockchain
+Business Reporting
+Case Law
+Cloud Security
+Color Matching
+Communication Systems
+Community Development
+Computer Networking
+Content Marketing
+Content Strategy
+Corporate Finance
+Cyber Security Assessment
+Data Access
+Data Integrity
+Data Persistence
+Demography
+Descriptive Statistics
+Discussion Facilitation
+Distributed Computing
+Drive Engagement
+Economics, Policy, and Social Studies
+Environmental Social And Corporate Governance (ESG)
+Event-Driven Programming
+Exercise Science
+Feature Engineering
+Firewall
+Food and Beverage
+Graphic and Visual Design Software
+Growth Strategies
+Health Informatics
+Higher Education
+Intercultural Competence
+Multimedia
+Network Routing
+New Business Development
+Operations Research
+Oral Comprehension
+Performance Metric
+Quality Assurance
+R Programming
+Regulation and Legal Compliance
+Resource Management
+Security Awareness
+Security Testing
+Simulation and Simulation Software
+Statistical Hypothesis Testing
+Strategic Decision-Making
+Strategic Partnership
+Style Guides
+User Accounts
+Video Game Development
+Water Resources
+API Design
+Adobe Creative Cloud
+Applicant Tracking Systems
+Brainstorming
+Civil Engineering
+Clinical Trials
+Cloud Infrastructure
+Construction
+Corporate Sustainability
+Cultural Responsiveness
+Data Literacy
+Derivatives
+Differential Equations
+Digital Design
+Diplomacy
+Embedded Software
+Environmental Monitoring
+Financial Data
+Geometry
+Global Marketing
+Health And Wellness Coaching
+Health Information Management
+Health Promotion
+Health Technology
+Ideation
+Influencing
+Intrusion Detection and Prevention
+Investigation
+LangChain
+Legal Research
+LinkedIn
+Linux Commands
+MLOps (Machine Learning Operations)
+Manufacturing Processes
+Market Research
+Market Trend
+Media Production
+Medical Imaging
+Medical Privacy
+Mental Health Diseases and Disorders
+NumPy
+Overcoming Objections
+Patient Education And Counseling
+Personally Identifiable Information
+Preventative Care
+Program Evaluation
+Project Planning
+Quantitative Research
+Relational Databases
+Remote Access Systems
+Revenue Management
+Risk Mitigation
+Sales Presentation
+Sales Process
+Scientific Visualization
+Scrum (Software Development)
+Security Strategy
+Selling Techniques
+Sprint Planning
+Sprint Retrospectives
+Stakeholder Analysis
+Strategic Planning
+Systems Of Measurement
+Tableau Software
+Technical Support
+Threat Modeling
+User Research
+Vibrations
+Videography
+Wireless Networks
+Workforce Development
+Workplace inclusivity
+AI Security
+Adobe Illustrator
+Advertising Campaigns
+Agentic systems
+Algebra
+Amazon Web Services
+Anatomy
+Anomaly Detection
+Backlogs
+Bioinformatics
+Building Design
+Business Correspondence
+Business Economics
+Business Metrics
+Business Process
+Business Process Automation
+C (Programming Language)
+C# (Programming Language)
+Capacity Planning
+Cash Flows
+Cell Biology
+Child Development
+Cloud Storage
+Cloud-Native Computing
+Complex Problem Solving
+Compliance Management
+Computational Logic
+Computer Hardware
+Convolutional Neural Networks
+Copywriting
+Correlation Analysis
+Cost Estimation
+Cryptography
+Customer Relationship Building
+Customer experience strategy (CX)
+Cyber Risk
+Data Mapping
+Data Sharing
+Dealing With Ambiguity
+Delegation Skills
+Digital Advertising
+Digital Signal Processing
+E-Commerce
+Electric Power Systems
+Electrical Systems
+Electronics
+Engineering
+Enterprise Architecture
+Environmental Regulations
+Estimation
+FinTech
+Financial Statement Analysis
+Financial Systems
+Geospatial Information and Technology
+Graphics Software
+Hardware Architecture
+Healthcare Project Management
+Hydrology
+Information Architecture
+Infrastructure Security
+Infrastructure as Code (IaC)
+Initiative and Leadership
+Integrated Development Environments
+Java Programming
+JavaScript Frameworks
+Language Competency
+Lean Methodologies
+Legal Strategy
+Machine Learning Algorithms
+Malware Protection
+Market Opportunities
+Marketing Planning
+Markov Model
+Microbiology
+Microsoft Azure
+Molecular Biology
+Network Model
+Nutritional Assessment
+Object Oriented Design
+Organizational Effectiveness
+Pandas (Python Package)
+Pathology
+Performance Testing
+Pharmacology
+Policy Development
+Portfolio Risk
+Prioritization
+Product Management
+Product Strategy
+Production Process
+Project Risk Management
+Public Speaking
+R (Software)
+Record Keeping
+Robotics
+Secure Coding
+Security Management
+Social Skills
+Software Development Tools
+Spatial Analysis
+Sports Medicine
+Statistical Visualization
+Sustainable Systems
+Target Market
+Test Driven Development (TDD)
+Threat Management
+Unity Engine
+Unix
+Unix Commands
+Usability
+Usability Testing
+User Interface and User Experience (UI/UX) Design
+Virtual Networking
+Visionary
+Vulnerability Management
+Water Resource Management
+Advanced Analytics
+Animation and Game Design
+Ansible
+Architectural Engineering
+Balance Sheet
+Bayesian Statistics
+Business
+Business Management
+Business Marketing
+Business Strategies
+Business Technologies
+Calendar Management
+Canva (Software)
+Capacity Management
+Change Control
+Chemistry
+Clinical Documentation
+Clinical Research
+Closing (Sales)
+Cloud Management
+Commercial Laws
+Consolidation
+Content Performance Analysis
+Continuous Delivery
+Continuous Deployment
+Continuous Quality Improvement (CQI)
+Control Systems
+Cryptographic Protocols
+Customer Relationship Management
+Customer Service
+Cyber Security Strategy
+Cyber Threat Intelligence
+Data Analysis Expressions (DAX)
+Data Pipelines
+Database Architecture and Administration
+Database Development
+Decision Support Systems
+Dependency Analysis
+Design Software
+Driving engagement
+Education Software and Technology
+Electronic Medical Record
+Embedded Systems
+Employee Engagement
+Empowerment
+End User Training and Support
+Exploitation techniques
+File Systems
+Financial Accounting
+Financial Forecasting
+Financial Management
+Fundraising
+Game Theory
+Health Education
+Health Insurance Portability And Accountability Act (HIPAA) Compliance
+Histogram
+Human Centered Design
+Human Resource Strategy
+Information Systems Security
+Information Technology
+Interaction Design
+Interoperability
+Jupyter
+Keras (Neural Network Library)
+Labor Relations
+Legal Risk
+Liberal Arts
+Logistic Regression
+Machine Learning Methods
+Manufacturing and Production
+Market Data
+Marketing Psychology
+Materials science
+Matplotlib
+Mechanical Engineering
+Medical Records
+Mergers & Acquisitions
+Microsoft Copilot
+Network Monitoring
+Non-Verbal Communication
+Operating System Administration
+Overcoming Obstacles
+Patient Communication
+Patient Safety
+Patient-centered Care
+Penetration Testing
+People Management
+Performing Arts
+Persuasive Communication
+Power BI
+Predictive Analytics
+Process Analysis
+Program Development
+Project Management Software
+Prompt Patterns
+Proofreading
+Public History
+Qualitative Research
+Recruitment
+Requirements Analysis
+Risk Management Framework
+SAS (Software)
+Sales Prospecting
+Sanitation
+Scope Management
+Securities (Finance)
+Self-Discipline
+Self-Motivation
+Shell Script
+Social Media Campaigns
+Social Media Content
+Social Network Analysis
+Software Development Life Cycle
+Software Engineering
+Spatial Data Analysis
+Strategic Communication
+Strategic Marketing
+Surveys
+Sustainable Design
+System Requirements
+Technology Solutions
+Telecommuting
+Test Case
+Text Mining
+Transportation Operations
+Trigonometry
+Unit Testing
+Unreal Engine
+Vector Databases
+Vulnerability Scanning
+Water Quality
+Water Sustainability
+Web Content
+Web Scraping
+Web Servers
+Web Services
+Work Breakdown Structure
+digital literacy
+AI Orchestration
+Account Strategy
+Adobe Premiere
+Agentic Workflows
+Agile Product Development
+Agile Software Development
+Android (Operating System)
+Apache Spark
+Back-End Web Development
+Bayesian Network
+Biostatistics
+Biotechnology
+Blogs
+Bookkeeping
+Budgeting
+Business Planning
+Business Relationship Management
+C++ (Programming Language)
+Capital Markets
+Care Management
+Clinical Assessment
+Cloud Platforms
+Code Review
+Communication Planning
+Computer Architecture
+Computer Graphic Techniques
+Computer Science
+Concision
+Construction Engineering
+Construction Management
+Content Management
+Contract Negotiation
+Cost Accounting
+Cost Benefit Analysis
+Creative Problem-Solving
+Cross-Functional Team Leadership
+Curiosity
+Customer Data Management
+Customer Retention
+Customer experience improvement
+Cyber Security Policies
+Data Migration
+Data Storage Technologies
+Data Synthesis
+Database Application
+Database Systems
+De-escalation Techniques
+Decision Tree Learning
+Design Strategies
+Devops Tools
+Diagnostic Tests
+Digital Media Strategy
+Disabilities
+Disaster Recovery
+Distributed Denial-Of-Service (DDoS) Attacks
+Diversity Equity and Inclusion Initiatives
+Education and Training
+Email Marketing
+Embeddings
+Employee Training
+Engineering Design Process
+Entrepreneurial Finance
+Executive Presence
+Expectation Management
+Extensible Markup Language (XML)
+Facebook
+File I/O
+Financial Policy
+Financial Regulation
+Financial Reporting
+Financial Services
+Generative Model Architectures
+Geospatial Mapping
+Global Positioning Systems
+Google Ads
+Google Analytics
+Google Cloud Platform
+Graphing
+Hardening
+Health Assessment
+Health Information Management and Medical Records
+Healthcare Industry Knowledge
+Hospitality Management
+Human Machine Interfaces
+IT Automation
+Identity and Access Management
+Immunology
+Information Management
+Informed Consent
+Integration Testing
+International Finance
+Jenkins
+Kanban Principles
+Labor Law
+Laboratory Research
+Lead Generation
+Learning Strategies
+Linux Administration
+Logistics
+Marketing Budgets
+Marketing Design
+Maternal Health
+Microsoft Teams
+Mockups
+Musical Composition
+Natural Resource Management
+OS Process Management
+Object-Relational Mapping
+Online Advertising
+Open Web Application Security Project (OWASP)
+Oral Expression
+Package and Software Management
+Patient Evaluation
+Performance Management
+Peripheral Devices
+Platform As A Service (PaaS)
+Price Negotiation
+Process Design
+Process Improvement
+Process Improvement and Optimization
+Professionalism
+Project Controls
+Project Documentation
+Project Implementation
+Project Scoping
+Promotional Strategies
+Public Key Cryptography Standards (PKCS)
+Public Safety and National Security
+PyTorch (Machine Learning Library)
+Radiation Therapy
+React Native
+Recruitment Strategies
+Reinforcement Learning
+Reliability
+Report Writing
+Sample Size Determination
+Scatter Plots
+Security Information and Event Management (SIEM)
+Social Media Management
+Strategic Sourcing
+Structural Analysis
+Structural Engineering
+Supplier Management
+Surgery
+Sustainable Engineering
+Swift Programming
+System Design and Implementation
+Talent Acquisition
+Talent Management
+Tax
+Team Motivation
+Test Automation
+Thermal Management
+Tool Calling
+Torque (Physics)
+Transaction Processing
+Treatment Planning
+Trustworthiness
+Unstructured Data
+Virtual Private Networks (VPN)
+Virtual Reality
+Virtualization
+Visual Design
+Web Analytics
+Workforce Management
+Workforce Planning
+YAML
+electromagnetics
+A/B Testing
+API Testing
+Advanced Encryption Standard (AES)
+Ajax
