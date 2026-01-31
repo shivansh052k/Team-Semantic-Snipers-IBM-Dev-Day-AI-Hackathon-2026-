@@ -1,0 +1,13 @@
+Employee ID,Employee Name,Work Email (synthetic),Role,Level,Team ID,Team Name,Manager ID,Manager Name,Location,Work Mode,Start Date,Employment Status
+emp_01,Sarah Jenkins,sarah.jenkins@example.com,SRE,L3,team_alpha,Platform Engineering,mgr_01,Ava Patel,"Seattle, WA",Onsite,2023-02-19,Active
+emp_03,Mike Ross,mike.ross@example.com,Platform Engineer,L5,team_alpha,Platform Engineering,mgr_01,Ava Patel,"New York, NY",Hybrid,2024-08-19,Active
+emp_09,Camila Santos,camila.santos@example.com,Platform Engineer,L5,team_alpha,Platform Engineering,mgr_01,Ava Patel,"San Francisco, CA",Remote,2023-03-30,Active
+emp_05,Priya Shah,priya.shah@example.com,Data Engineer,L4,team_beta,Data & ML,mgr_02,Noah Kim,"New York, NY",Remote,2023-04-03,Active
+emp_06,Omar Ali,omar.ali@example.com,Applied Scientist,L4,team_beta,Data & ML,mgr_02,Noah Kim,"New York, NY",Onsite,2023-05-07,Active
+emp_10,Rohan Mehta,rohan.mehta@example.com,ML Engineer,L5,team_beta,Data & ML,mgr_02,Noah Kim,Remote (US),Remote,2024-08-13,Active
+emp_07,Lena Fischer,lena.fischer@example.com,Security Analyst,L4,team_delta,Security & Identity,mgr_04,Ethan Nguyen,"New York, NY",Remote,2023-02-17,Active
+emp_08,Jordan Lee,jordan.lee@example.com,Security Analyst,L3,team_delta,Security & Identity,mgr_04,Ethan Nguyen,"Austin, TX",Hybrid,2023-05-28,Active
+emp_12,Ben Wallace,ben.wallace@example.com,Security Analyst,L3,team_delta,Security & Identity,mgr_04,Ethan Nguyen,Remote (US),Hybrid,2024-07-27,Active
+emp_02,David Chen,david.chen@example.com,Backend Engineer,L3,team_gamma,Product Engineering,mgr_03,Maya Rodriguez,"New York, NY",Onsite,2024-08-07,Active
+emp_04,Emily Blunt,emily.blunt@example.com,Backend Engineer,L3,team_gamma,Product Engineering,mgr_03,Maya Rodriguez,"Austin, TX",Remote,2024-07-14,Active
+emp_11,Grace Park,grace.park@example.com,Backend Engineer,L3,team_gamma,Product Engineering,mgr_03,Maya Rodriguez,Remote (US),Remote,2024-09-25,Active
