@@ -1,0 +1,2760 @@
+[
+  {
+    "course_id": "crs_0001",
+    "title": "Feature Flags and Progressive Delivery in Practice",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0001/feature-flags-and-progressive-delivery-in-practice",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Feature Flags",
+      "Release Management",
+      "Risk Mitigation",
+      "Observability",
+      "System Design",
+      "Incident Management"
+    ],
+    "skill_tags_normalized": [
+      "feature-flags",
+      "release-engineering",
+      "risk-mitigation",
+      "observability"
+    ],
+    "description": "This course helps you build job-ready skills for feature-flags, release-engineering, risk-mitigation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 9,
+    "format": "Course",
+    "_id": "crs_0001"
+  },
+  {
+    "course_id": "crs_0002",
+    "title": "API Design and Backend Engineering: Patterns and Practices for Teams",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0002/api-design-and-backend-engineering-patterns-and-practices-for-teams",
+    "level": "Advanced",
+    "duration_bucket": "1–3 Months",
+    "language": "German",
+    "topic": "Computer Science",
+    "skills": [
+      "API Design",
+      "Backend Development",
+      "REST APIs",
+      "System Design"
+    ],
+    "skill_tags_normalized": [
+      "backend",
+      "api-design"
+    ],
+    "description": "This course helps you build job-ready skills for backend, api-design. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 33,
+    "format": "Course",
+    "_id": "crs_0002"
+  },
+  {
+    "course_id": "crs_0003",
+    "title": "Secure Modern Frontend Engineering with React and TypeScript",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0003/secure-modern-frontend-engineering-with-react-and-typescript",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "French",
+    "topic": "Computer Science",
+    "skills": [
+      "React",
+      "TypeScript",
+      "UI Engineering",
+      "Accessibility",
+      "State Management"
+    ],
+    "skill_tags_normalized": [
+      "frontend",
+      "react",
+      "typescript",
+      "ui",
+      "accessibility"
+    ],
+    "description": "This course helps you build job-ready skills for frontend, react, typescript. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 7,
+    "format": "Professional Certificate",
+    "_id": "crs_0003"
+  },
+  {
+    "course_id": "crs_0004",
+    "title": "Go for Backend Services: Concurrency, APIs, and Logging at Scale",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0004/go-for-backend-services-concurrency-apis-and-logging-at-scale",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Go",
+      "Concurrency",
+      "Backend Development",
+      "Logging",
+      "Code Review"
+    ],
+    "skill_tags_normalized": [
+      "golang",
+      "backend",
+      "logging"
+    ],
+    "description": "This course helps you build job-ready skills for golang, backend, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 14,
+    "format": "Course",
+    "_id": "crs_0004"
+  },
+  {
+    "course_id": "crs_0005",
+    "title": "Infrastructure as Code with Terraform and Cloud Foundations: Analytics Essentials",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0005/infrastructure-as-code-with-terraform-and-cloud-foundations-analytics-essentials",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Terraform",
+      "Infrastructure as Code",
+      "Cloud Computing",
+      "DevOps"
+    ],
+    "skill_tags_normalized": [
+      "iac",
+      "platform",
+      "cloud",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for iac, platform, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 13,
+    "format": "Course",
+    "_id": "crs_0005"
+  },
+  {
+    "course_id": "crs_0006",
+    "title": "Secure Authentication with OAuth and OpenID Connect for Teams",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0006/secure-authentication-with-oauth-and-openid-connect-for-teams",
+    "level": "Beginner",
+    "duration_bucket": "3–6 Months",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "OAuth",
+      "OpenID Connect",
+      "Identity and Access Management",
+      "Security",
+      "Code Review",
+      "System Design"
+    ],
+    "skill_tags_normalized": [
+      "iam",
+      "security",
+      "access-control"
+    ],
+    "description": "This course helps you build job-ready skills for iam, security, access-control. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 70,
+    "format": "Course",
+    "_id": "crs_0006"
+  },
+  {
+    "course_id": "crs_0007",
+    "title": "Supply Chain Security and Container Scanning in CI at Scale",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0007/supply-chain-security-and-container-scanning-in-ci-at-scale",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Software Supply Chain",
+      "SAST",
+      "SCA",
+      "Container Security",
+      "Trivy",
+      "Cloud Architecture",
+      "Security Best Practices"
+    ],
+    "skill_tags_normalized": [
+      "security",
+      "supply-chain",
+      "sca",
+      "cicd"
+    ],
+    "description": "This course helps you build job-ready skills for security, supply-chain, sca. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 13,
+    "format": "Course",
+    "_id": "crs_0007"
+  },
+  {
+    "course_id": "crs_0008",
+    "title": "Advanced Infrastructure as Code with Terraform and Cloud Foundations",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0008/advanced-infrastructure-as-code-with-terraform-and-cloud-foundations",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Terraform",
+      "Infrastructure as Code",
+      "Cloud Computing",
+      "DevOps",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "iac",
+      "platform",
+      "cloud",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for iac, platform, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 1,
+    "format": "Guided Project",
+    "_id": "crs_0008"
+  },
+  {
+    "course_id": "crs_0009",
+    "title": "FinOps Fundamentals: Cloud Cost Optimization and Governance Foundations",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0009/finops-fundamentals-cloud-cost-optimization-and-governance-foundations",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "Portuguese (Brazil)",
+    "topic": "Business",
+    "skills": [
+      "FinOps",
+      "Cloud Cost Optimization",
+      "Monitoring",
+      "Forecasting",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "monitoring"
+    ],
+    "description": "This course helps you build job-ready skills for finops, cost-optimization, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 46,
+    "format": "Course",
+    "_id": "crs_0009"
+  },
+  {
+    "course_id": "crs_0010",
+    "title": "Feature Flags and Progressive Delivery: Analytics Essentials",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0010/feature-flags-and-progressive-delivery-analytics-essentials",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Feature Flags",
+      "Release Management",
+      "Risk Mitigation",
+      "Observability",
+      "Security Best Practices",
+      "Performance Tuning"
+    ],
+    "skill_tags_normalized": [
+      "feature-flags",
+      "release-engineering",
+      "risk-mitigation",
+      "observability"
+    ],
+    "description": "This course helps you build job-ready skills for feature-flags, release-engineering, risk-mitigation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 1,
+    "format": "Course",
+    "_id": "crs_0010"
+  },
+  {
+    "course_id": "crs_0011",
+    "title": "Modern Probability and Statistics for Engineers",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0011/modern-probability-and-statistics-for-engineers",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Math and Logic",
+    "skills": [
+      "Probability",
+      "Statistics",
+      "Data Literacy",
+      "Hypothesis Testing",
+      "Code Review"
+    ],
+    "skill_tags_normalized": [
+      "math",
+      "statistics"
+    ],
+    "description": "This course helps you build job-ready skills for math, statistics. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 10,
+    "format": "Course",
+    "_id": "crs_0011"
+  },
+  {
+    "course_id": "crs_0012",
+    "title": "Practical Data Engineering with Streaming and Kafka in Practice",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0012/practical-data-engineering-with-streaming-and-kafka-in-practice",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Data Science",
+    "skills": [
+      "Kafka",
+      "Streaming Data",
+      "Data Pipelines",
+      "Schema Registry",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "streaming",
+      "kafka",
+      "data-platform",
+      "schemas"
+    ],
+    "description": "This course helps you build job-ready skills for streaming, kafka, data-platform. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0012"
+  },
+  {
+    "course_id": "crs_0013",
+    "title": "Modern FinOps Fundamentals: Cloud Cost Optimization and Governance",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0013/modern-finops-fundamentals-cloud-cost-optimization-and-governance",
+    "level": "Mixed",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Business",
+    "skills": [
+      "FinOps",
+      "Cloud Cost Optimization",
+      "Monitoring",
+      "Forecasting",
+      "Code Review",
+      "Testing"
+    ],
+    "skill_tags_normalized": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "monitoring"
+    ],
+    "description": "This course helps you build job-ready skills for finops, cost-optimization, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 49,
+    "format": "Course",
+    "_id": "crs_0013"
+  },
+  {
+    "course_id": "crs_0014",
+    "title": "Secure Feature Flags and Progressive Delivery",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0014/secure-feature-flags-and-progressive-delivery",
+    "level": "Mixed",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Feature Flags",
+      "Release Management",
+      "Risk Mitigation",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "feature-flags",
+      "release-engineering",
+      "risk-mitigation",
+      "observability"
+    ],
+    "description": "This course helps you build job-ready skills for feature-flags, release-engineering, risk-mitigation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 36,
+    "format": "Course",
+    "_id": "crs_0014"
+  },
+  {
+    "course_id": "crs_0015",
+    "title": "Scalable Testing Strategies with PyTest and Mocking for Reliable Systems",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0015/scalable-testing-strategies-with-pytest-and-mocking-for-reliable-systems",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "PyTest",
+      "Unit Testing",
+      "Integration Testing",
+      "Mocking",
+      "Quality"
+    ],
+    "skill_tags_normalized": [
+      "testing",
+      "quality"
+    ],
+    "description": "This course helps you build job-ready skills for testing, quality. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 7,
+    "format": "Course",
+    "_id": "crs_0015"
+  },
+  {
+    "course_id": "crs_0016",
+    "title": "Kubernetes Foundations for Platform Engineers Foundations",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0016/kubernetes-foundations-for-platform-engineers-foundations",
+    "level": "Mixed",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Kubernetes",
+      "Containers",
+      "Cluster Management",
+      "Troubleshooting",
+      "SRE",
+      "DevOps"
+    ],
+    "skill_tags_normalized": [
+      "kubernetes",
+      "platform",
+      "reliability",
+      "containers"
+    ],
+    "description": "This course helps you build job-ready skills for kubernetes, platform, reliability. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 1,
+    "format": "Course",
+    "_id": "crs_0016"
+  },
+  {
+    "course_id": "crs_0017",
+    "title": "Reliable API Design and Backend Engineering: Patterns and Practices",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0017/reliable-api-design-and-backend-engineering-patterns-and-practices",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "French",
+    "topic": "Computer Science",
+    "skills": [
+      "API Design",
+      "Backend Development",
+      "REST APIs",
+      "System Design"
+    ],
+    "skill_tags_normalized": [
+      "backend",
+      "api-design"
+    ],
+    "description": "This course helps you build job-ready skills for backend, api-design. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 1,
+    "format": "Course",
+    "_id": "crs_0017"
+  },
+  {
+    "course_id": "crs_0018",
+    "title": "CI/CD with GitHub Actions and Modern DevOps: Billing Playbook",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0018/ci-cd-with-github-actions-and-modern-devops-billing-playbook",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "CI/CD",
+      "GitHub Actions",
+      "Automation",
+      "DevOps",
+      "System Design",
+      "Performance Tuning"
+    ],
+    "skill_tags_normalized": [
+      "cicd",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for cicd, automation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 22,
+    "format": "Professional Certificate",
+    "_id": "crs_0018"
+  },
+  {
+    "course_id": "crs_0019",
+    "title": "Hands-on Edge Reliability with Nginx and Traffic Management",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0019/hands-on-edge-reliability-with-nginx-and-traffic-management",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Nginx",
+      "Load Balancing",
+      "Caching",
+      "Reliability Engineering"
+    ],
+    "skill_tags_normalized": [
+      "edge",
+      "reliability",
+      "caching"
+    ],
+    "description": "This course helps you build job-ready skills for edge, reliability, caching. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 14,
+    "format": "Course",
+    "_id": "crs_0019"
+  },
+  {
+    "course_id": "crs_0020",
+    "title": "Probability and Statistics for Engineers: Search Playbook",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0020/probability-and-statistics-for-engineers-search-playbook",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Math and Logic",
+    "skills": [
+      "Probability",
+      "Statistics",
+      "Data Literacy",
+      "Hypothesis Testing"
+    ],
+    "skill_tags_normalized": [
+      "math",
+      "statistics"
+    ],
+    "description": "This course helps you build job-ready skills for math, statistics. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 2,
+    "format": "Guided Project",
+    "_id": "crs_0020"
+  },
+  {
+    "course_id": "crs_0021",
+    "title": "Infrastructure as Code with Terraform and Cloud Foundations: Notifications Playbook",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0021/infrastructure-as-code-with-terraform-and-cloud-foundations-notifications-playbo",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Terraform",
+      "Infrastructure as Code",
+      "Cloud Computing",
+      "DevOps",
+      "Cloud Architecture",
+      "Performance Tuning"
+    ],
+    "skill_tags_normalized": [
+      "iac",
+      "platform",
+      "cloud",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for iac, platform, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 12,
+    "format": "Course",
+    "_id": "crs_0021"
+  },
+  {
+    "course_id": "crs_0022",
+    "title": "Go for Backend Services: Concurrency, APIs, and Logging Foundations",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0022/go-for-backend-services-concurrency-apis-and-logging-foundations",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Go",
+      "Concurrency",
+      "Backend Development",
+      "Logging",
+      "System Design",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "golang",
+      "backend",
+      "logging"
+    ],
+    "description": "This course helps you build job-ready skills for golang, backend, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 8,
+    "format": "Course",
+    "_id": "crs_0022"
+  },
+  {
+    "course_id": "crs_0023",
+    "title": "Modern Frontend Engineering with React and TypeScript: Billing Mastery",
+    "provider": "Meta",
+    "url": "https://learning.example.com/courses/crs_0023/modern-frontend-engineering-with-react-and-typescript-billing-mastery",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "React",
+      "TypeScript",
+      "UI Engineering",
+      "Accessibility",
+      "State Management",
+      "Code Review"
+    ],
+    "skill_tags_normalized": [
+      "frontend",
+      "react",
+      "typescript",
+      "ui",
+      "accessibility"
+    ],
+    "description": "This course helps you build job-ready skills for frontend, react, typescript. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0023"
+  },
+  {
+    "course_id": "crs_0024",
+    "title": "Testing Strategies with PyTest and Mocking for Reliable Systems: Analytics Playbook",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0024/testing-strategies-with-pytest-and-mocking-for-reliable-systems-analytics-playbo",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "PyTest",
+      "Unit Testing",
+      "Integration Testing",
+      "Mocking",
+      "Quality"
+    ],
+    "skill_tags_normalized": [
+      "testing",
+      "quality"
+    ],
+    "description": "This course helps you build job-ready skills for testing, quality. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 14,
+    "format": "Course",
+    "_id": "crs_0024"
+  },
+  {
+    "course_id": "crs_0025",
+    "title": "API Design and Backend Engineering: Patterns and Practices: Billing Playbook",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0025/api-design-and-backend-engineering-patterns-and-practices-billing-playbook",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "API Design",
+      "Backend Development",
+      "REST APIs",
+      "System Design",
+      "Documentation",
+      "DevOps"
+    ],
+    "skill_tags_normalized": [
+      "backend",
+      "api-design"
+    ],
+    "description": "This course helps you build job-ready skills for backend, api-design. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 9,
+    "format": "Course",
+    "_id": "crs_0025"
+  },
+  {
+    "course_id": "crs_0026",
+    "title": "Advanced High-Impact Technical Communication for Engineers",
+    "provider": "University Partner",
+    "url": "https://learning.example.com/courses/crs_0026/advanced-high-impact-technical-communication-for-engineers",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "French",
+    "topic": "Personal Development",
+    "skills": [
+      "Technical Writing",
+      "Stakeholder Communication",
+      "Documentation",
+      "Incident Management"
+    ],
+    "skill_tags_normalized": [
+      "communication",
+      "documentation"
+    ],
+    "description": "This course helps you build job-ready skills for communication, documentation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 34,
+    "format": "Course",
+    "_id": "crs_0026"
+  },
+  {
+    "course_id": "crs_0027",
+    "title": "High-Impact Technical Communication for Engineers Foundations",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0027/high-impact-technical-communication-for-engineers-foundations",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Personal Development",
+    "skills": [
+      "Technical Writing",
+      "Stakeholder Communication",
+      "Documentation",
+      "System Design",
+      "Security Best Practices"
+    ],
+    "skill_tags_normalized": [
+      "communication",
+      "documentation"
+    ],
+    "description": "This course helps you build job-ready skills for communication, documentation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 60,
+    "format": "Course",
+    "_id": "crs_0027"
+  },
+  {
+    "course_id": "crs_0028",
+    "title": "Probability and Statistics for Engineers in Practice",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0028/probability-and-statistics-for-engineers-in-practice",
+    "level": "Mixed",
+    "duration_bucket": "Less than 2 hours",
+    "language": "German",
+    "topic": "Math and Logic",
+    "skills": [
+      "Probability",
+      "Statistics",
+      "Data Literacy",
+      "Hypothesis Testing"
+    ],
+    "skill_tags_normalized": [
+      "math",
+      "statistics"
+    ],
+    "description": "This course helps you build job-ready skills for math, statistics. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0028"
+  },
+  {
+    "course_id": "crs_0029",
+    "title": "Kubernetes Foundations for Platform Engineers: Orders Track",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0029/kubernetes-foundations-for-platform-engineers-orders-track",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Kubernetes",
+      "Containers",
+      "Cluster Management",
+      "Troubleshooting",
+      "SRE",
+      "System Design",
+      "Cloud Architecture"
+    ],
+    "skill_tags_normalized": [
+      "kubernetes",
+      "platform",
+      "reliability",
+      "containers"
+    ],
+    "description": "This course helps you build job-ready skills for kubernetes, platform, reliability. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 1,
+    "format": "Course",
+    "_id": "crs_0029"
+  },
+  {
+    "course_id": "crs_0030",
+    "title": "API Design and Backend Engineering: Patterns and Practices: Analytics Playbook",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0030/api-design-and-backend-engineering-patterns-and-practices-analytics-playbook",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "API Design",
+      "Backend Development",
+      "REST APIs",
+      "System Design",
+      "DevOps"
+    ],
+    "skill_tags_normalized": [
+      "backend",
+      "api-design"
+    ],
+    "description": "This course helps you build job-ready skills for backend, api-design. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 7,
+    "format": "Course",
+    "_id": "crs_0030"
+  },
+  {
+    "course_id": "crs_0031",
+    "title": "Secrets Management and Rotation Automation with Vault Bootcamp",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0031/secrets-management-and-rotation-automation-with-vault-bootcamp",
+    "level": "Advanced",
+    "duration_bucket": "1–4 Weeks",
+    "language": "German",
+    "topic": "Information Technology",
+    "skills": [
+      "Vault",
+      "Secrets Management",
+      "Automation",
+      "Security"
+    ],
+    "skill_tags_normalized": [
+      "secrets",
+      "security",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for secrets, security, automation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 9,
+    "format": "Course",
+    "_id": "crs_0031"
+  },
+  {
+    "course_id": "crs_0032",
+    "title": "Secure Authentication with OAuth and OpenID Connect at Scale",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0032/secure-authentication-with-oauth-and-openid-connect-at-scale",
+    "level": "Advanced",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "OAuth",
+      "OpenID Connect",
+      "Identity and Access Management",
+      "Security",
+      "Incident Management",
+      "Security Best Practices"
+    ],
+    "skill_tags_normalized": [
+      "iam",
+      "security",
+      "access-control"
+    ],
+    "description": "This course helps you build job-ready skills for iam, security, access-control. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 7,
+    "format": "Specialization",
+    "_id": "crs_0032"
+  },
+  {
+    "course_id": "crs_0033",
+    "title": "CI/CD with GitHub Actions and Modern DevOps: Orders Mastery",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0033/ci-cd-with-github-actions-and-modern-devops-orders-mastery",
+    "level": "Advanced",
+    "duration_bucket": "Less than 2 hours",
+    "language": "Spanish",
+    "topic": "Information Technology",
+    "skills": [
+      "CI/CD",
+      "GitHub Actions",
+      "Automation",
+      "DevOps"
+    ],
+    "skill_tags_normalized": [
+      "cicd",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for cicd, automation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0033"
+  },
+  {
+    "course_id": "crs_0034",
+    "title": "Secure CI/CD with GitHub Actions and Modern DevOps",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0034/secure-ci-cd-with-github-actions-and-modern-devops",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "CI/CD",
+      "GitHub Actions",
+      "Automation",
+      "DevOps",
+      "Documentation",
+      "Incident Management"
+    ],
+    "skill_tags_normalized": [
+      "cicd",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for cicd, automation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 2,
+    "format": "Guided Project",
+    "_id": "crs_0034"
+  },
+  {
+    "course_id": "crs_0035",
+    "title": "Secrets Management and Rotation Automation with Vault in Practice",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0035/secrets-management-and-rotation-automation-with-vault-in-practice",
+    "level": "Advanced",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Vault",
+      "Secrets Management",
+      "Automation",
+      "Security"
+    ],
+    "skill_tags_normalized": [
+      "secrets",
+      "security",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for secrets, security, automation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 31,
+    "format": "Course",
+    "_id": "crs_0035"
+  },
+  {
+    "course_id": "crs_0036",
+    "title": "Secure API Design and Backend Engineering: Patterns and Practices",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0036/secure-api-design-and-backend-engineering-patterns-and-practices",
+    "level": "Advanced",
+    "duration_bucket": "3–6 Months",
+    "language": "French",
+    "topic": "Computer Science",
+    "skills": [
+      "API Design",
+      "Backend Development",
+      "REST APIs",
+      "System Design",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "backend",
+      "api-design"
+    ],
+    "description": "This course helps you build job-ready skills for backend, api-design. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 100,
+    "format": "Course",
+    "_id": "crs_0036"
+  },
+  {
+    "course_id": "crs_0037",
+    "title": "Zero-Downtime Database Migrations with Liquibase: Orders Playbook",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0037/zero-downtime-database-migrations-with-liquibase-orders-playbook",
+    "level": "Advanced",
+    "duration_bucket": "1–4 Weeks",
+    "language": "German",
+    "topic": "Information Technology",
+    "skills": [
+      "Database Migrations",
+      "Liquibase",
+      "PostgreSQL",
+      "Release Engineering"
+    ],
+    "skill_tags_normalized": [
+      "database-migrations",
+      "release-engineering",
+      "database",
+      "sql"
+    ],
+    "description": "This course helps you build job-ready skills for database-migrations, release-engineering, database. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 8,
+    "format": "Course",
+    "_id": "crs_0037"
+  },
+  {
+    "course_id": "crs_0038",
+    "title": "Advanced FinOps Fundamentals: Cloud Cost Optimization and Governance",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0038/advanced-finops-fundamentals-cloud-cost-optimization-and-governance",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Business",
+    "skills": [
+      "FinOps",
+      "Cloud Cost Optimization",
+      "Monitoring",
+      "Forecasting"
+    ],
+    "skill_tags_normalized": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "monitoring"
+    ],
+    "description": "This course helps you build job-ready skills for finops, cost-optimization, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 7,
+    "format": "Course",
+    "_id": "crs_0038"
+  },
+  {
+    "course_id": "crs_0039",
+    "title": "Edge Reliability with Nginx and Traffic Management: Search Essentials",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0039/edge-reliability-with-nginx-and-traffic-management-search-essentials",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "French",
+    "topic": "Information Technology",
+    "skills": [
+      "Nginx",
+      "Load Balancing",
+      "Caching",
+      "Reliability Engineering"
+    ],
+    "skill_tags_normalized": [
+      "edge",
+      "reliability",
+      "caching"
+    ],
+    "description": "This course helps you build job-ready skills for edge, reliability, caching. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 9,
+    "format": "Course",
+    "_id": "crs_0039"
+  },
+  {
+    "course_id": "crs_0040",
+    "title": "CI/CD with GitHub Actions and Modern DevOps: Notifications Playbook",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0040/ci-cd-with-github-actions-and-modern-devops-notifications-playbook",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "Spanish",
+    "topic": "Information Technology",
+    "skills": [
+      "CI/CD",
+      "GitHub Actions",
+      "Automation",
+      "DevOps"
+    ],
+    "skill_tags_normalized": [
+      "cicd",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for cicd, automation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 2,
+    "format": "Course",
+    "_id": "crs_0040"
+  },
+  {
+    "course_id": "crs_0041",
+    "title": "Observability: Logging, Metrics, Tracing, and Alerting: Identity Track",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0041/observability-logging-metrics-tracing-and-alerting-identity-track",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Observability",
+      "Monitoring",
+      "Logging",
+      "Alerting",
+      "Incident Response",
+      "Testing",
+      "Documentation"
+    ],
+    "skill_tags_normalized": [
+      "observability",
+      "monitoring",
+      "logging",
+      "alerting",
+      "reliability"
+    ],
+    "description": "This course helps you build job-ready skills for observability, monitoring, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 8,
+    "format": "Specialization",
+    "_id": "crs_0041"
+  },
+  {
+    "course_id": "crs_0042",
+    "title": "Go for Backend Services: Concurrency, APIs, and Logging for Teams",
+    "provider": "Google Cloud",
+    "url": "https://learning.example.com/courses/crs_0042/go-for-backend-services-concurrency-apis-and-logging-for-teams",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Go",
+      "Concurrency",
+      "Backend Development",
+      "Logging",
+      "Performance Tuning"
+    ],
+    "skill_tags_normalized": [
+      "golang",
+      "backend",
+      "logging"
+    ],
+    "description": "This course helps you build job-ready skills for golang, backend, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 15,
+    "format": "Course",
+    "_id": "crs_0042"
+  },
+  {
+    "course_id": "crs_0043",
+    "title": "State Management Patterns: Redux and Scalable UI for Teams",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0043/state-management-patterns-redux-and-scalable-ui-for-teams",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "Portuguese (Brazil)",
+    "topic": "Computer Science",
+    "skills": [
+      "Redux",
+      "State Management",
+      "TypeScript",
+      "Frontend"
+    ],
+    "skill_tags_normalized": [
+      "frontend",
+      "typescript",
+      "ui"
+    ],
+    "description": "This course helps you build job-ready skills for frontend, typescript, ui. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 11,
+    "format": "Course",
+    "_id": "crs_0043"
+  },
+  {
+    "course_id": "crs_0044",
+    "title": "FinOps Fundamentals: Cloud Cost Optimization and Governance at Scale",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0044/finops-fundamentals-cloud-cost-optimization-and-governance-at-scale",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Business",
+    "skills": [
+      "FinOps",
+      "Cloud Cost Optimization",
+      "Monitoring",
+      "Forecasting"
+    ],
+    "skill_tags_normalized": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "monitoring"
+    ],
+    "description": "This course helps you build job-ready skills for finops, cost-optimization, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 2,
+    "format": "Professional Certificate",
+    "_id": "crs_0044"
+  },
+  {
+    "course_id": "crs_0045",
+    "title": "Advanced Zero-Downtime Database Migrations with Liquibase",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0045/advanced-zero-downtime-database-migrations-with-liquibase",
+    "level": "Advanced",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Database Migrations",
+      "Liquibase",
+      "PostgreSQL",
+      "Release Engineering"
+    ],
+    "skill_tags_normalized": [
+      "database-migrations",
+      "release-engineering",
+      "database",
+      "sql"
+    ],
+    "description": "This course helps you build job-ready skills for database-migrations, release-engineering, database. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 27,
+    "format": "Course",
+    "_id": "crs_0045"
+  },
+  {
+    "course_id": "crs_0046",
+    "title": "Kubernetes Foundations for Platform Engineers in Practice",
+    "provider": "University Partner",
+    "url": "https://learning.example.com/courses/crs_0046/kubernetes-foundations-for-platform-engineers-in-practice",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Kubernetes",
+      "Containers",
+      "Cluster Management",
+      "Troubleshooting",
+      "SRE"
+    ],
+    "skill_tags_normalized": [
+      "kubernetes",
+      "platform",
+      "reliability",
+      "containers"
+    ],
+    "description": "This course helps you build job-ready skills for kubernetes, platform, reliability. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 33,
+    "format": "Course",
+    "_id": "crs_0046"
+  },
+  {
+    "course_id": "crs_0047",
+    "title": "Feature Flags and Progressive Delivery: Orders Track",
+    "provider": "DeepLearning.AI",
+    "url": "https://learning.example.com/courses/crs_0047/feature-flags-and-progressive-delivery-orders-track",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Feature Flags",
+      "Release Management",
+      "Risk Mitigation",
+      "Observability",
+      "Testing"
+    ],
+    "skill_tags_normalized": [
+      "feature-flags",
+      "release-engineering",
+      "risk-mitigation",
+      "observability"
+    ],
+    "description": "This course helps you build job-ready skills for feature-flags, release-engineering, risk-mitigation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 33,
+    "format": "Course",
+    "_id": "crs_0047"
+  },
+  {
+    "course_id": "crs_0048",
+    "title": "Infrastructure as Code with Terraform and Cloud Foundations in Practice",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0048/infrastructure-as-code-with-terraform-and-cloud-foundations-in-practice",
+    "level": "Intermediate",
+    "duration_bucket": "1–3 Months",
+    "language": "French",
+    "topic": "Information Technology",
+    "skills": [
+      "Terraform",
+      "Infrastructure as Code",
+      "Cloud Computing",
+      "DevOps",
+      "System Design"
+    ],
+    "skill_tags_normalized": [
+      "iac",
+      "platform",
+      "cloud",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for iac, platform, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 25,
+    "format": "Course",
+    "_id": "crs_0048"
+  },
+  {
+    "course_id": "crs_0049",
+    "title": "Modern Secure Authentication with OAuth and OpenID Connect",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0049/modern-secure-authentication-with-oauth-and-openid-connect",
+    "level": "Advanced",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "OAuth",
+      "OpenID Connect",
+      "Identity and Access Management",
+      "Security",
+      "System Design"
+    ],
+    "skill_tags_normalized": [
+      "iam",
+      "security",
+      "access-control"
+    ],
+    "description": "This course helps you build job-ready skills for iam, security, access-control. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 2,
+    "format": "Course",
+    "_id": "crs_0049"
+  },
+  {
+    "course_id": "crs_0050",
+    "title": "FinOps Fundamentals: Cloud Cost Optimization and Governance in Practice",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0050/finops-fundamentals-cloud-cost-optimization-and-governance-in-practice",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Business",
+    "skills": [
+      "FinOps",
+      "Cloud Cost Optimization",
+      "Monitoring",
+      "Forecasting",
+      "Testing"
+    ],
+    "skill_tags_normalized": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "monitoring"
+    ],
+    "description": "This course helps you build job-ready skills for finops, cost-optimization, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Guided Project",
+    "_id": "crs_0050"
+  },
+  {
+    "course_id": "crs_0051",
+    "title": "Caching and Rate Limiting for High-Scale APIs: Billing Mastery",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0051/caching-and-rate-limiting-for-high-scale-apis-billing-mastery",
+    "level": "Intermediate",
+    "duration_bucket": "3–6 Months",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Redis",
+      "Caching",
+      "Rate Limiting",
+      "API Gateway"
+    ],
+    "skill_tags_normalized": [
+      "caching",
+      "backend",
+      "api-gateway"
+    ],
+    "description": "This course helps you build job-ready skills for caching, backend, api-gateway. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 112,
+    "format": "Course",
+    "_id": "crs_0051"
+  },
+  {
+    "course_id": "crs_0052",
+    "title": "Modern Frontend Engineering with React and TypeScript Foundations",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0052/modern-frontend-engineering-with-react-and-typescript-foundations",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "React",
+      "TypeScript",
+      "UI Engineering",
+      "Accessibility",
+      "State Management",
+      "Code Review",
+      "Security Best Practices"
+    ],
+    "skill_tags_normalized": [
+      "frontend",
+      "react",
+      "typescript",
+      "ui",
+      "accessibility"
+    ],
+    "description": "This course helps you build job-ready skills for frontend, react, typescript. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 23,
+    "format": "Professional Certificate",
+    "_id": "crs_0052"
+  },
+  {
+    "course_id": "crs_0053",
+    "title": "Production Go for Backend Services: Concurrency, APIs, and Logging",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0053/production-go-for-backend-services-concurrency-apis-and-logging",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Go",
+      "Concurrency",
+      "Backend Development",
+      "Logging",
+      "Code Review"
+    ],
+    "skill_tags_normalized": [
+      "golang",
+      "backend",
+      "logging"
+    ],
+    "description": "This course helps you build job-ready skills for golang, backend, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0053"
+  },
+  {
+    "course_id": "crs_0054",
+    "title": "Secure Authentication with OAuth and OpenID Connect: Search Track",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0054/secure-authentication-with-oauth-and-openid-connect-search-track",
+    "level": "Advanced",
+    "duration_bucket": "Less than 2 hours",
+    "language": "German",
+    "topic": "Computer Science",
+    "skills": [
+      "OAuth",
+      "OpenID Connect",
+      "Identity and Access Management",
+      "Security"
+    ],
+    "skill_tags_normalized": [
+      "iam",
+      "security",
+      "access-control"
+    ],
+    "description": "This course helps you build job-ready skills for iam, security, access-control. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Guided Project",
+    "_id": "crs_0054"
+  },
+  {
+    "course_id": "crs_0055",
+    "title": "Production Practical Data Engineering with Streaming and Kafka",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0055/production-practical-data-engineering-with-streaming-and-kafka",
+    "level": "Mixed",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Data Science",
+    "skills": [
+      "Kafka",
+      "Streaming Data",
+      "Data Pipelines",
+      "Schema Registry",
+      "Security Best Practices",
+      "DevOps"
+    ],
+    "skill_tags_normalized": [
+      "streaming",
+      "kafka",
+      "data-platform",
+      "schemas"
+    ],
+    "description": "This course helps you build job-ready skills for streaming, kafka, data-platform. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0055"
+  },
+  {
+    "course_id": "crs_0056",
+    "title": "Practical Edge Reliability with Nginx and Traffic Management",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0056/practical-edge-reliability-with-nginx-and-traffic-management",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "Portuguese (Brazil)",
+    "topic": "Information Technology",
+    "skills": [
+      "Nginx",
+      "Load Balancing",
+      "Caching",
+      "Reliability Engineering"
+    ],
+    "skill_tags_normalized": [
+      "edge",
+      "reliability",
+      "caching"
+    ],
+    "description": "This course helps you build job-ready skills for edge, reliability, caching. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0056"
+  },
+  {
+    "course_id": "crs_0057",
+    "title": "Advanced Vector Search and Embeddings for Retrieval Systems",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0057/advanced-vector-search-and-embeddings-for-retrieval-systems",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "French",
+    "topic": "Data Science",
+    "skills": [
+      "Embeddings",
+      "Vector Search",
+      "Similarity Search",
+      "Information Retrieval"
+    ],
+    "skill_tags_normalized": [
+      "embeddings",
+      "retrieval",
+      "vector-search"
+    ],
+    "description": "This course helps you build job-ready skills for embeddings, retrieval, vector-search. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 1,
+    "format": "Guided Project",
+    "_id": "crs_0057"
+  },
+  {
+    "course_id": "crs_0058",
+    "title": "Observability: Logging, Metrics, Tracing, and Alerting Bootcamp",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0058/observability-logging-metrics-tracing-and-alerting-bootcamp",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Observability",
+      "Monitoring",
+      "Logging",
+      "Alerting",
+      "Incident Response",
+      "System Design"
+    ],
+    "skill_tags_normalized": [
+      "observability",
+      "monitoring",
+      "logging",
+      "alerting",
+      "reliability"
+    ],
+    "description": "This course helps you build job-ready skills for observability, monitoring, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 59,
+    "format": "Specialization",
+    "_id": "crs_0058"
+  },
+  {
+    "course_id": "crs_0059",
+    "title": "Modern Edge Reliability with Nginx and Traffic Management",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0059/modern-edge-reliability-with-nginx-and-traffic-management",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Nginx",
+      "Load Balancing",
+      "Caching",
+      "Reliability Engineering",
+      "Testing",
+      "Performance Tuning"
+    ],
+    "skill_tags_normalized": [
+      "edge",
+      "reliability",
+      "caching"
+    ],
+    "description": "This course helps you build job-ready skills for edge, reliability, caching. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 11,
+    "format": "Course",
+    "_id": "crs_0059"
+  },
+  {
+    "course_id": "crs_0060",
+    "title": "Advanced Go for Backend Services: Concurrency, APIs, and Logging",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0060/advanced-go-for-backend-services-concurrency-apis-and-logging",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "French",
+    "topic": "Computer Science",
+    "skills": [
+      "Go",
+      "Concurrency",
+      "Backend Development",
+      "Logging",
+      "Observability",
+      "Documentation"
+    ],
+    "skill_tags_normalized": [
+      "golang",
+      "backend",
+      "logging"
+    ],
+    "description": "This course helps you build job-ready skills for golang, backend, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 13,
+    "format": "Course",
+    "_id": "crs_0060"
+  },
+  {
+    "course_id": "crs_0061",
+    "title": "Production Caching and Rate Limiting for High-Scale APIs",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0061/production-caching-and-rate-limiting-for-high-scale-apis",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Redis",
+      "Caching",
+      "Rate Limiting",
+      "API Gateway"
+    ],
+    "skill_tags_normalized": [
+      "caching",
+      "backend",
+      "api-gateway"
+    ],
+    "description": "This course helps you build job-ready skills for caching, backend, api-gateway. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 2,
+    "format": "Guided Project",
+    "_id": "crs_0061"
+  },
+  {
+    "course_id": "crs_0062",
+    "title": "Modern Testing Strategies with PyTest and Mocking for Reliable Systems",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0062/modern-testing-strategies-with-pytest-and-mocking-for-reliable-systems",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "PyTest",
+      "Unit Testing",
+      "Integration Testing",
+      "Mocking",
+      "Quality",
+      "Testing",
+      "Code Review"
+    ],
+    "skill_tags_normalized": [
+      "testing",
+      "quality"
+    ],
+    "description": "This course helps you build job-ready skills for testing, quality. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 31,
+    "format": "Course",
+    "_id": "crs_0062"
+  },
+  {
+    "course_id": "crs_0063",
+    "title": "Feature Flags and Progressive Delivery for Engineers",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0063/feature-flags-and-progressive-delivery-for-engineers",
+    "level": "Advanced",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Feature Flags",
+      "Release Management",
+      "Risk Mitigation",
+      "Observability",
+      "Testing",
+      "Code Review"
+    ],
+    "skill_tags_normalized": [
+      "feature-flags",
+      "release-engineering",
+      "risk-mitigation",
+      "observability"
+    ],
+    "description": "This course helps you build job-ready skills for feature-flags, release-engineering, risk-mitigation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 33,
+    "format": "Course",
+    "_id": "crs_0063"
+  },
+  {
+    "course_id": "crs_0064",
+    "title": "Reliable SQL for Analytics and Database Performance Tuning",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0064/reliable-sql-for-analytics-and-database-performance-tuning",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Data Science",
+    "skills": [
+      "SQL",
+      "Query Optimization",
+      "Indexes",
+      "PostgreSQL",
+      "Data Modeling"
+    ],
+    "skill_tags_normalized": [
+      "sql",
+      "database"
+    ],
+    "description": "This course helps you build job-ready skills for sql, database. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 60,
+    "format": "Course",
+    "_id": "crs_0064"
+  },
+  {
+    "course_id": "crs_0065",
+    "title": "High-Impact Technical Communication for Engineers Bootcamp",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0065/high-impact-technical-communication-for-engineers-bootcamp",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Personal Development",
+    "skills": [
+      "Technical Writing",
+      "Stakeholder Communication",
+      "Documentation",
+      "Testing",
+      "Incident Management"
+    ],
+    "skill_tags_normalized": [
+      "communication",
+      "documentation"
+    ],
+    "description": "This course helps you build job-ready skills for communication, documentation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 1,
+    "format": "Course",
+    "_id": "crs_0065"
+  },
+  {
+    "course_id": "crs_0066",
+    "title": "Scalable Go for Backend Services: Concurrency, APIs, and Logging",
+    "provider": "DeepLearning.AI",
+    "url": "https://learning.example.com/courses/crs_0066/scalable-go-for-backend-services-concurrency-apis-and-logging",
+    "level": "Mixed",
+    "duration_bucket": "1–4 Weeks",
+    "language": "Portuguese (Brazil)",
+    "topic": "Computer Science",
+    "skills": [
+      "Go",
+      "Concurrency",
+      "Backend Development",
+      "Logging",
+      "Incident Management"
+    ],
+    "skill_tags_normalized": [
+      "golang",
+      "backend",
+      "logging"
+    ],
+    "description": "This course helps you build job-ready skills for golang, backend, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 6,
+    "format": "Course",
+    "_id": "crs_0066"
+  },
+  {
+    "course_id": "crs_0067",
+    "title": "SQL for Analytics and Database Performance Tuning: Billing Playbook",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0067/sql-for-analytics-and-database-performance-tuning-billing-playbook",
+    "level": "Beginner",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Data Science",
+    "skills": [
+      "SQL",
+      "Query Optimization",
+      "Indexes",
+      "PostgreSQL",
+      "Data Modeling"
+    ],
+    "skill_tags_normalized": [
+      "sql",
+      "database"
+    ],
+    "description": "This course helps you build job-ready skills for sql, database. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 27,
+    "format": "Course",
+    "_id": "crs_0067"
+  },
+  {
+    "course_id": "crs_0068",
+    "title": "Modern State Management Patterns: Redux and Scalable UI",
+    "provider": "Meta",
+    "url": "https://learning.example.com/courses/crs_0068/modern-state-management-patterns-redux-and-scalable-ui",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "German",
+    "topic": "Computer Science",
+    "skills": [
+      "Redux",
+      "State Management",
+      "TypeScript",
+      "Frontend",
+      "Testing"
+    ],
+    "skill_tags_normalized": [
+      "frontend",
+      "typescript",
+      "ui"
+    ],
+    "description": "This course helps you build job-ready skills for frontend, typescript, ui. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 11,
+    "format": "Professional Certificate",
+    "_id": "crs_0068"
+  },
+  {
+    "course_id": "crs_0069",
+    "title": "Scalable Go for Backend Services: Concurrency, APIs, and Logging (Capstone)",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0069/scalable-go-for-backend-services-concurrency-apis-and-logging-(capstone)",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "Portuguese (Brazil)",
+    "topic": "Computer Science",
+    "skills": [
+      "Go",
+      "Concurrency",
+      "Backend Development",
+      "Logging"
+    ],
+    "skill_tags_normalized": [
+      "golang",
+      "backend",
+      "logging"
+    ],
+    "description": "This course helps you build job-ready skills for golang, backend, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 14,
+    "format": "Specialization",
+    "_id": "crs_0069"
+  },
+  {
+    "course_id": "crs_0070",
+    "title": "FinOps Fundamentals: Cloud Cost Optimization and Governance at Scale (2026)",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0070/finops-fundamentals-cloud-cost-optimization-and-governance-at-scale-(2026)",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "German",
+    "topic": "Business",
+    "skills": [
+      "FinOps",
+      "Cloud Cost Optimization",
+      "Monitoring",
+      "Forecasting",
+      "System Design"
+    ],
+    "skill_tags_normalized": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "monitoring"
+    ],
+    "description": "This course helps you build job-ready skills for finops, cost-optimization, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 13,
+    "format": "Course",
+    "_id": "crs_0070"
+  },
+  {
+    "course_id": "crs_0071",
+    "title": "FinOps Fundamentals: Cloud Cost Optimization and Governance: Orders Essentials",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0071/finops-fundamentals-cloud-cost-optimization-and-governance-orders-essentials",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Business",
+    "skills": [
+      "FinOps",
+      "Cloud Cost Optimization",
+      "Monitoring",
+      "Forecasting",
+      "Incident Management"
+    ],
+    "skill_tags_normalized": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "monitoring"
+    ],
+    "description": "This course helps you build job-ready skills for finops, cost-optimization, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 10,
+    "format": "Course",
+    "_id": "crs_0071"
+  },
+  {
+    "course_id": "crs_0072",
+    "title": "Kubernetes Foundations for Platform Engineers Foundations (Capstone)",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0072/kubernetes-foundations-for-platform-engineers-foundations-(capstone)",
+    "level": "Intermediate",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Kubernetes",
+      "Containers",
+      "Cluster Management",
+      "Troubleshooting",
+      "SRE"
+    ],
+    "skill_tags_normalized": [
+      "kubernetes",
+      "platform",
+      "reliability",
+      "containers"
+    ],
+    "description": "This course helps you build job-ready skills for kubernetes, platform, reliability. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 22,
+    "format": "Course",
+    "_id": "crs_0072"
+  },
+  {
+    "course_id": "crs_0073",
+    "title": "FinOps Fundamentals: Cloud Cost Optimization and Governance: Identity Track",
+    "provider": "Google Cloud",
+    "url": "https://learning.example.com/courses/crs_0073/finops-fundamentals-cloud-cost-optimization-and-governance-identity-track",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Business",
+    "skills": [
+      "FinOps",
+      "Cloud Cost Optimization",
+      "Monitoring",
+      "Forecasting",
+      "Documentation"
+    ],
+    "skill_tags_normalized": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "monitoring"
+    ],
+    "description": "This course helps you build job-ready skills for finops, cost-optimization, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0073"
+  },
+  {
+    "course_id": "crs_0074",
+    "title": "Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0074/practical-rag-systems-build-production-ready-retrieval-augmented-generation",
+    "level": "Advanced",
+    "duration_bucket": "Less than 2 hours",
+    "language": "Portuguese (Brazil)",
+    "topic": "Data Science",
+    "skills": [
+      "RAG",
+      "LLMs",
+      "Prompting",
+      "Evaluation",
+      "Vector Databases",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "rag",
+      "llm-systems",
+      "retrieval",
+      "vector-search"
+    ],
+    "description": "This course helps you build job-ready skills for rag, llm-systems, retrieval. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 2,
+    "format": "Guided Project",
+    "_id": "crs_0074"
+  },
+  {
+    "course_id": "crs_0075",
+    "title": "Modern Observability: Logging, Metrics, Tracing, and Alerting",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0075/modern-observability-logging-metrics-tracing-and-alerting",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Observability",
+      "Monitoring",
+      "Logging",
+      "Alerting",
+      "Incident Response"
+    ],
+    "skill_tags_normalized": [
+      "observability",
+      "monitoring",
+      "logging",
+      "alerting",
+      "reliability"
+    ],
+    "description": "This course helps you build job-ready skills for observability, monitoring, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 10,
+    "format": "Specialization",
+    "_id": "crs_0075"
+  },
+  {
+    "course_id": "crs_0076",
+    "title": "Hands-on Vector Search and Embeddings for Retrieval Systems",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0076/hands-on-vector-search-and-embeddings-for-retrieval-systems",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "German",
+    "topic": "Data Science",
+    "skills": [
+      "Embeddings",
+      "Vector Search",
+      "Similarity Search",
+      "Information Retrieval",
+      "System Design",
+      "Performance Tuning"
+    ],
+    "skill_tags_normalized": [
+      "embeddings",
+      "retrieval",
+      "vector-search"
+    ],
+    "description": "This course helps you build job-ready skills for embeddings, retrieval, vector-search. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 9,
+    "format": "Professional Certificate",
+    "_id": "crs_0076"
+  },
+  {
+    "course_id": "crs_0077",
+    "title": "Testing Strategies with PyTest and Mocking for Reliable Systems: Search Series",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0077/testing-strategies-with-pytest-and-mocking-for-reliable-systems-search-series",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "PyTest",
+      "Unit Testing",
+      "Integration Testing",
+      "Mocking",
+      "Quality",
+      "DevOps",
+      "System Design"
+    ],
+    "skill_tags_normalized": [
+      "testing",
+      "quality"
+    ],
+    "description": "This course helps you build job-ready skills for testing, quality. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 10,
+    "format": "Course",
+    "_id": "crs_0077"
+  },
+  {
+    "course_id": "crs_0078",
+    "title": "Observability: Logging, Metrics, Tracing, and Alerting for Engineers",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0078/observability-logging-metrics-tracing-and-alerting-for-engineers",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "French",
+    "topic": "Information Technology",
+    "skills": [
+      "Observability",
+      "Monitoring",
+      "Logging",
+      "Alerting",
+      "Incident Response",
+      "System Design"
+    ],
+    "skill_tags_normalized": [
+      "observability",
+      "monitoring",
+      "logging",
+      "alerting",
+      "reliability"
+    ],
+    "description": "This course helps you build job-ready skills for observability, monitoring, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 6,
+    "format": "Specialization",
+    "_id": "crs_0078"
+  },
+  {
+    "course_id": "crs_0079",
+    "title": "Caching and Rate Limiting for High-Scale APIs: Profile Track",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0079/caching-and-rate-limiting-for-high-scale-apis-profile-track",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "German",
+    "topic": "Computer Science",
+    "skills": [
+      "Redis",
+      "Caching",
+      "Rate Limiting",
+      "API Gateway",
+      "Code Review",
+      "DevOps"
+    ],
+    "skill_tags_normalized": [
+      "caching",
+      "backend",
+      "api-gateway"
+    ],
+    "description": "This course helps you build job-ready skills for caching, backend, api-gateway. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 12,
+    "format": "Course",
+    "_id": "crs_0079"
+  },
+  {
+    "course_id": "crs_0080",
+    "title": "RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0080/rag-systems-build-production-ready-retrieval-augmented-generation-foundations",
+    "level": "Advanced",
+    "duration_bucket": "1–3 Months",
+    "language": "English",
+    "topic": "Data Science",
+    "skills": [
+      "RAG",
+      "LLMs",
+      "Prompting",
+      "Evaluation",
+      "Vector Databases"
+    ],
+    "skill_tags_normalized": [
+      "rag",
+      "llm-systems",
+      "retrieval",
+      "vector-search"
+    ],
+    "description": "This course helps you build job-ready skills for rag, llm-systems, retrieval. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 42,
+    "format": "Specialization",
+    "_id": "crs_0080"
+  },
+  {
+    "course_id": "crs_0081",
+    "title": "Kubernetes Foundations for Platform Engineers Bootcamp",
+    "provider": "University Partner",
+    "url": "https://learning.example.com/courses/crs_0081/kubernetes-foundations-for-platform-engineers-bootcamp",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Kubernetes",
+      "Containers",
+      "Cluster Management",
+      "Troubleshooting",
+      "SRE",
+      "Incident Management"
+    ],
+    "skill_tags_normalized": [
+      "kubernetes",
+      "platform",
+      "reliability",
+      "containers"
+    ],
+    "description": "This course helps you build job-ready skills for kubernetes, platform, reliability. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 10,
+    "format": "Course",
+    "_id": "crs_0081"
+  },
+  {
+    "course_id": "crs_0082",
+    "title": "Scalable Secrets Management and Rotation Automation with Vault",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0082/scalable-secrets-management-and-rotation-automation-with-vault",
+    "level": "Advanced",
+    "duration_bucket": "3–6 Months",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Vault",
+      "Secrets Management",
+      "Automation",
+      "Security",
+      "Code Review",
+      "Security Best Practices"
+    ],
+    "skill_tags_normalized": [
+      "secrets",
+      "security",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for secrets, security, automation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 114,
+    "format": "Course",
+    "_id": "crs_0082"
+  },
+  {
+    "course_id": "crs_0083",
+    "title": "FinOps Fundamentals: Cloud Cost Optimization and Governance for Engineers",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0083/finops-fundamentals-cloud-cost-optimization-and-governance-for-engineers",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "French",
+    "topic": "Business",
+    "skills": [
+      "FinOps",
+      "Cloud Cost Optimization",
+      "Monitoring",
+      "Forecasting",
+      "System Design",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "monitoring"
+    ],
+    "description": "This course helps you build job-ready skills for finops, cost-optimization, cloud. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 2,
+    "format": "Course",
+    "_id": "crs_0083"
+  },
+  {
+    "course_id": "crs_0084",
+    "title": "Testing Strategies with PyTest and Mocking for Reliable Systems at Scale",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0084/testing-strategies-with-pytest-and-mocking-for-reliable-systems-at-scale",
+    "level": "Advanced",
+    "duration_bucket": "Less than 2 hours",
+    "language": "Spanish",
+    "topic": "Computer Science",
+    "skills": [
+      "PyTest",
+      "Unit Testing",
+      "Integration Testing",
+      "Mocking",
+      "Quality",
+      "DevOps"
+    ],
+    "skill_tags_normalized": [
+      "testing",
+      "quality"
+    ],
+    "description": "This course helps you build job-ready skills for testing, quality. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 1,
+    "format": "Course",
+    "_id": "crs_0084"
+  },
+  {
+    "course_id": "crs_0085",
+    "title": "Zero-Downtime Database Migrations with Liquibase for Engineers",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0085/zero-downtime-database-migrations-with-liquibase-for-engineers",
+    "level": "Advanced",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Database Migrations",
+      "Liquibase",
+      "PostgreSQL",
+      "Release Engineering"
+    ],
+    "skill_tags_normalized": [
+      "database-migrations",
+      "release-engineering",
+      "database",
+      "sql"
+    ],
+    "description": "This course helps you build job-ready skills for database-migrations, release-engineering, database. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Guided Project",
+    "_id": "crs_0085"
+  },
+  {
+    "course_id": "crs_0086",
+    "title": "Production Go for Backend Services: Concurrency, APIs, and Logging (v2)",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0086/production-go-for-backend-services-concurrency-apis-and-logging-(v2)",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "German",
+    "topic": "Computer Science",
+    "skills": [
+      "Go",
+      "Concurrency",
+      "Backend Development",
+      "Logging",
+      "Performance Tuning"
+    ],
+    "skill_tags_normalized": [
+      "golang",
+      "backend",
+      "logging"
+    ],
+    "description": "This course helps you build job-ready skills for golang, backend, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 14,
+    "format": "Course",
+    "_id": "crs_0086"
+  },
+  {
+    "course_id": "crs_0087",
+    "title": "Feature Flags and Progressive Delivery: Analytics Playbook",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0087/feature-flags-and-progressive-delivery-analytics-playbook",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Feature Flags",
+      "Release Management",
+      "Risk Mitigation",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "feature-flags",
+      "release-engineering",
+      "risk-mitigation",
+      "observability"
+    ],
+    "description": "This course helps you build job-ready skills for feature-flags, release-engineering, risk-mitigation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 7,
+    "format": "Course",
+    "_id": "crs_0087"
+  },
+  {
+    "course_id": "crs_0088",
+    "title": "Testing Strategies with PyTest and Mocking for Reliable Systems for Engineers",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0088/testing-strategies-with-pytest-and-mocking-for-reliable-systems-for-engineers",
+    "level": "Advanced",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "PyTest",
+      "Unit Testing",
+      "Integration Testing",
+      "Mocking",
+      "Quality",
+      "Testing"
+    ],
+    "skill_tags_normalized": [
+      "testing",
+      "quality"
+    ],
+    "description": "This course helps you build job-ready skills for testing, quality. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 9,
+    "format": "Course",
+    "_id": "crs_0088"
+  },
+  {
+    "course_id": "crs_0089",
+    "title": "API Design and Backend Engineering: Patterns and Practices: Search Series",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0089/api-design-and-backend-engineering-patterns-and-practices-search-series",
+    "level": "Intermediate",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "API Design",
+      "Backend Development",
+      "REST APIs",
+      "System Design",
+      "Performance Tuning"
+    ],
+    "skill_tags_normalized": [
+      "backend",
+      "api-design"
+    ],
+    "description": "This course helps you build job-ready skills for backend, api-design. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0089"
+  },
+  {
+    "course_id": "crs_0090",
+    "title": "Modern Observability: Logging, Metrics, Tracing, and Alerting (Edition)",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0090/modern-observability-logging-metrics-tracing-and-alerting-(edition)",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Observability",
+      "Monitoring",
+      "Logging",
+      "Alerting",
+      "Incident Response",
+      "Performance Tuning"
+    ],
+    "skill_tags_normalized": [
+      "observability",
+      "monitoring",
+      "logging",
+      "alerting",
+      "reliability"
+    ],
+    "description": "This course helps you build job-ready skills for observability, monitoring, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 8,
+    "format": "Specialization",
+    "_id": "crs_0090"
+  },
+  {
+    "course_id": "crs_0091",
+    "title": "Secrets Management and Rotation Automation with Vault for Engineers",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0091/secrets-management-and-rotation-automation-with-vault-for-engineers",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Vault",
+      "Secrets Management",
+      "Automation",
+      "Security"
+    ],
+    "skill_tags_normalized": [
+      "secrets",
+      "security",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for secrets, security, automation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 10,
+    "format": "Course",
+    "_id": "crs_0091"
+  },
+  {
+    "course_id": "crs_0092",
+    "title": "Secrets Management and Rotation Automation with Vault: Orders Program",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0092/secrets-management-and-rotation-automation-with-vault-orders-program",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Vault",
+      "Secrets Management",
+      "Automation",
+      "Security",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "secrets",
+      "security",
+      "automation"
+    ],
+    "description": "This course helps you build job-ready skills for secrets, security, automation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0092"
+  },
+  {
+    "course_id": "crs_0093",
+    "title": "Modern Frontend Engineering with React and TypeScript: Notifications Program",
+    "provider": "IBM Training",
+    "url": "https://learning.example.com/courses/crs_0093/modern-frontend-engineering-with-react-and-typescript-notifications-program",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "React",
+      "TypeScript",
+      "UI Engineering",
+      "Accessibility",
+      "State Management",
+      "Observability"
+    ],
+    "skill_tags_normalized": [
+      "frontend",
+      "react",
+      "typescript",
+      "ui",
+      "accessibility"
+    ],
+    "description": "This course helps you build job-ready skills for frontend, react, typescript. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Professional Certificate",
+    "_id": "crs_0093"
+  },
+  {
+    "course_id": "crs_0094",
+    "title": "Scalable Kubernetes Foundations for Platform Engineers",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0094/scalable-kubernetes-foundations-for-platform-engineers",
+    "level": "Beginner",
+    "duration_bucket": "3–6 Months",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Kubernetes",
+      "Containers",
+      "Cluster Management",
+      "Troubleshooting",
+      "SRE",
+      "Cloud Architecture"
+    ],
+    "skill_tags_normalized": [
+      "kubernetes",
+      "platform",
+      "reliability",
+      "containers"
+    ],
+    "description": "This course helps you build job-ready skills for kubernetes, platform, reliability. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 69,
+    "format": "Course",
+    "_id": "crs_0094"
+  },
+  {
+    "course_id": "crs_0095",
+    "title": "Modern High-Impact Technical Communication for Engineers",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0095/modern-high-impact-technical-communication-for-engineers",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "Spanish",
+    "topic": "Personal Development",
+    "skills": [
+      "Technical Writing",
+      "Stakeholder Communication",
+      "Documentation",
+      "Code Review"
+    ],
+    "skill_tags_normalized": [
+      "communication",
+      "documentation"
+    ],
+    "description": "This course helps you build job-ready skills for communication, documentation. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 6,
+    "format": "Course",
+    "_id": "crs_0095"
+  },
+  {
+    "course_id": "crs_0096",
+    "title": "Supply Chain Security and Container Scanning in CI for Engineers",
+    "provider": "IBM SkillsBuild",
+    "url": "https://learning.example.com/courses/crs_0096/supply-chain-security-and-container-scanning-in-ci-for-engineers",
+    "level": "Advanced",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Software Supply Chain",
+      "SAST",
+      "SCA",
+      "Container Security",
+      "Trivy"
+    ],
+    "skill_tags_normalized": [
+      "security",
+      "supply-chain",
+      "sca",
+      "cicd"
+    ],
+    "description": "This course helps you build job-ready skills for security, supply-chain, sca. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 6,
+    "format": "Course",
+    "_id": "crs_0096"
+  },
+  {
+    "course_id": "crs_0097",
+    "title": "Observability: Logging, Metrics, Tracing, and Alerting: Profile Essentials",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0097/observability-logging-metrics-tracing-and-alerting-profile-essentials",
+    "level": "Mixed",
+    "duration_bucket": "3–6 Months",
+    "language": "English",
+    "topic": "Information Technology",
+    "skills": [
+      "Observability",
+      "Monitoring",
+      "Logging",
+      "Alerting",
+      "Incident Response",
+      "Performance Tuning",
+      "Cloud Architecture"
+    ],
+    "skill_tags_normalized": [
+      "observability",
+      "monitoring",
+      "logging",
+      "alerting",
+      "reliability"
+    ],
+    "description": "This course helps you build job-ready skills for observability, monitoring, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 115,
+    "format": "Specialization",
+    "_id": "crs_0097"
+  },
+  {
+    "course_id": "crs_0098",
+    "title": "Testing Strategies with PyTest and Mocking for Reliable Systems: Notifications Essentials",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0098/testing-strategies-with-pytest-and-mocking-for-reliable-systems-notifications-es",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "PyTest",
+      "Unit Testing",
+      "Integration Testing",
+      "Mocking",
+      "Quality"
+    ],
+    "skill_tags_normalized": [
+      "testing",
+      "quality"
+    ],
+    "description": "This course helps you build job-ready skills for testing, quality. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 3,
+    "format": "Course",
+    "_id": "crs_0098"
+  },
+  {
+    "course_id": "crs_0099",
+    "title": "Testing Strategies with PyTest and Mocking for Reliable Systems: Orders Series",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0099/testing-strategies-with-pytest-and-mocking-for-reliable-systems-orders-series",
+    "level": "Beginner",
+    "duration_bucket": "Less than 2 hours",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "PyTest",
+      "Unit Testing",
+      "Integration Testing",
+      "Mocking",
+      "Quality",
+      "Cloud Architecture"
+    ],
+    "skill_tags_normalized": [
+      "testing",
+      "quality"
+    ],
+    "description": "This course helps you build job-ready skills for testing, quality. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 1,
+    "format": "Course",
+    "_id": "crs_0099"
+  },
+  {
+    "course_id": "crs_0100",
+    "title": "Go for Backend Services: Concurrency, APIs, and Logging Bootcamp",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0100/go-for-backend-services-concurrency-apis-and-logging-bootcamp",
+    "level": "Intermediate",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Computer Science",
+    "skills": [
+      "Go",
+      "Concurrency",
+      "Backend Development",
+      "Logging",
+      "Incident Management"
+    ],
+    "skill_tags_normalized": [
+      "golang",
+      "backend",
+      "logging"
+    ],
+    "description": "This course helps you build job-ready skills for golang, backend, logging. You will learn best practices, implement hands-on exercises, and leave with reusable patterns for real projects.",
+    "estimated_effort_hours": 6,
+    "format": "Course",
+    "_id": "crs_0100"
+  },
+  {
+    "course_id": "crs_0101",
+    "title": "Foundations in Health for Busy Professionals",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0101/foundations-in-health",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Health",
+    "skills": [
+      "Foundations",
+      "Learning Strategies",
+      "Practical Projects"
+    ],
+    "skill_tags_normalized": [
+      "learning",
+      "foundations"
+    ],
+    "description": "A compact introduction to Health with guided practice and practical examples.",
+    "estimated_effort_hours": 10,
+    "format": "Course",
+    "_id": "crs_0101"
+  },
+  {
+    "course_id": "crs_0102",
+    "title": "Foundations in Arts and Humanities for Busy Professionals",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0102/foundations-in-arts-and-humanities",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Arts and Humanities",
+    "skills": [
+      "Foundations",
+      "Learning Strategies",
+      "Practical Projects"
+    ],
+    "skill_tags_normalized": [
+      "learning",
+      "foundations"
+    ],
+    "description": "A compact introduction to Arts and Humanities with guided practice and practical examples.",
+    "estimated_effort_hours": 10,
+    "format": "Course",
+    "_id": "crs_0102"
+  },
+  {
+    "course_id": "crs_0103",
+    "title": "Foundations in Physical Science and Engineering for Busy Professionals",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0103/foundations-in-physical-science-and-engineering",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Physical Science and Engineering",
+    "skills": [
+      "Foundations",
+      "Learning Strategies",
+      "Practical Projects"
+    ],
+    "skill_tags_normalized": [
+      "learning",
+      "foundations"
+    ],
+    "description": "A compact introduction to Physical Science and Engineering with guided practice and practical examples.",
+    "estimated_effort_hours": 10,
+    "format": "Course",
+    "_id": "crs_0103"
+  },
+  {
+    "course_id": "crs_0104",
+    "title": "Foundations in Social Sciences for Busy Professionals",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0104/foundations-in-social-sciences",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Social Sciences",
+    "skills": [
+      "Foundations",
+      "Learning Strategies",
+      "Practical Projects"
+    ],
+    "skill_tags_normalized": [
+      "learning",
+      "foundations"
+    ],
+    "description": "A compact introduction to Social Sciences with guided practice and practical examples.",
+    "estimated_effort_hours": 10,
+    "format": "Course",
+    "_id": "crs_0104"
+  },
+  {
+    "course_id": "crs_0105",
+    "title": "Foundations in Language Learning for Busy Professionals",
+    "provider": "Coursera",
+    "url": "https://learning.example.com/courses/crs_0105/foundations-in-language-learning",
+    "level": "Beginner",
+    "duration_bucket": "1–4 Weeks",
+    "language": "English",
+    "topic": "Language Learning",
+    "skills": [
+      "Foundations",
+      "Learning Strategies",
+      "Practical Projects"
+    ],
+    "skill_tags_normalized": [
+      "learning",
+      "foundations"
+    ],
+    "description": "A compact introduction to Language Learning with guided practice and practical examples.",
+    "estimated_effort_hours": 10,
+    "format": "Course",
+    "_id": "crs_0105"
+  }
+]

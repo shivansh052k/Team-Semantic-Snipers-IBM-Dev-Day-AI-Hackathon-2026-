@@ -1,0 +1,1470 @@
+[
+  {
+    "reco_id": "rec_0001",
+    "created_at": "2026-01-01T15:41:00Z",
+    "based_on_log_id": 1085,
+    "employee_id": "emp_06",
+    "manager_id": "mgr_02",
+    "team_id": "team_beta",
+    "work_title_snapshot": "Cost optimization study for analytics-api",
+    "technologies_snapshot": [
+      "FinOps",
+      "AWS",
+      "Monitoring"
+    ],
+    "skill_tags_input": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "aws",
+      "observability",
+      "monitoring"
+    ],
+    "recommended_course_ids": [
+      "crs_0073",
+      "crs_0083",
+      "crs_0071"
+    ],
+    "recommended_titles_snapshot": [
+      "FinOps Fundamentals: Cloud Cost Optimization and Governance: Identity Track",
+      "FinOps Fundamentals: Cloud Cost Optimization and Governance for Engineers",
+      "FinOps Fundamentals: Cloud Cost Optimization and Governance: Orders Essentials"
+    ],
+    "rationale": "FinOps Fundamentals: Cloud Cost Optimization and Governance: Identity Track: strengthens finops/cost-optimization with practical patterns | FinOps Fundamentals: Cloud Cost Optimization and Governance for Engineers: strengthens cost-optimization/cloud with practical patterns | FinOps Fundamentals: Cloud Cost Optimization and Governance: Orders Essentials: strengthens cloud/aws with practical patterns",
+    "plan_2weeks": "Week 1: crs_0073 (focus modules, ~3h) + apply to current work item | Week 2: crs_0083 (practice + mini-checklist, ~3h) | Stretch: crs_0071 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": null,
+    "_id": "rec_0001"
+  },
+  {
+    "reco_id": "rec_0002",
+    "created_at": "2026-01-03T11:55:00Z",
+    "based_on_log_id": 1014,
+    "employee_id": "emp_01",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "Secrets rotation automation",
+    "technologies_snapshot": [
+      "Vault",
+      "Terraform",
+      "Automation"
+    ],
+    "skill_tags_input": [
+      "secrets",
+      "security",
+      "iac",
+      "platform",
+      "automation"
+    ],
+    "recommended_course_ids": [
+      "crs_0035",
+      "crs_0091",
+      "crs_0031"
+    ],
+    "recommended_titles_snapshot": [
+      "Secrets Management and Rotation Automation with Vault in Practice",
+      "Secrets Management and Rotation Automation with Vault for Engineers",
+      "Secrets Management and Rotation Automation with Vault Bootcamp"
+    ],
+    "rationale": "Secrets Management and Rotation Automation with Vault in Practice: strengthens secrets/security with practical patterns | Secrets Management and Rotation Automation with Vault for Engineers: strengthens security/iac with practical patterns | Secrets Management and Rotation Automation with Vault Bootcamp: strengthens iac/platform with practical patterns",
+    "plan_2weeks": "Week 1: crs_0035 (focus modules, ~8h) + apply to current work item | Week 2: crs_0091 (practice + mini-checklist, ~8h) | Stretch: crs_0031 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Helpful",
+    "_id": "rec_0002"
+  },
+  {
+    "reco_id": "rec_0005",
+    "created_at": "2026-01-04T09:51:00Z",
+    "based_on_log_id": 1058,
+    "employee_id": "emp_09",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "CI/CD pipeline hardening for web-dashboard",
+    "technologies_snapshot": [
+      "GitHub Actions",
+      "Docker",
+      "Trivy"
+    ],
+    "skill_tags_input": [
+      "cicd",
+      "automation",
+      "containers",
+      "security",
+      "supply-chain"
+    ],
+    "recommended_course_ids": [
+      "crs_0007",
+      "crs_0096",
+      "crs_0040"
+    ],
+    "recommended_titles_snapshot": [
+      "Supply Chain Security and Container Scanning in CI at Scale",
+      "Supply Chain Security and Container Scanning in CI for Engineers",
+      "CI/CD with GitHub Actions and Modern DevOps: Notifications Playbook"
+    ],
+    "rationale": "Supply Chain Security and Container Scanning in CI at Scale: strengthens cicd/automation with practical patterns | Supply Chain Security and Container Scanning in CI for Engineers: strengthens automation/containers with practical patterns | CI/CD with GitHub Actions and Modern DevOps: Notifications Playbook: strengthens containers/security with practical patterns",
+    "plan_2weeks": "Week 1: crs_0007 (focus modules, ~6h) + apply to current work item | Week 2: crs_0096 (practice + mini-checklist, ~6h) | Stretch: crs_0040 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": "Saved",
+    "_id": "rec_0005"
+  },
+  {
+    "reco_id": "rec_0004",
+    "created_at": "2026-01-04T13:41:00Z",
+    "based_on_log_id": 1023,
+    "employee_id": "emp_03",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "Fix flaky integration tests in platform-core",
+    "technologies_snapshot": [
+      "PyTest",
+      "CI",
+      "Mocking"
+    ],
+    "skill_tags_input": [
+      "testing",
+      "quality",
+      "cicd"
+    ],
+    "recommended_course_ids": [
+      "crs_0015",
+      "crs_0088",
+      "crs_0077"
+    ],
+    "recommended_titles_snapshot": [
+      "Scalable Testing Strategies with PyTest and Mocking for Reliable Systems",
+      "Testing Strategies with PyTest and Mocking for Reliable Systems for Engineers",
+      "Testing Strategies with PyTest and Mocking for Reliable Systems: Search Series"
+    ],
+    "rationale": "Scalable Testing Strategies with PyTest and Mocking for Reliable Systems: strengthens testing/quality with practical patterns | Testing Strategies with PyTest and Mocking for Reliable Systems for Engineers: strengthens quality/cicd with practical patterns | Testing Strategies with PyTest and Mocking for Reliable Systems: Search Series: strengthens cicd/testing with practical patterns",
+    "plan_2weeks": "Week 1: crs_0015 (focus modules, ~4h) + apply to current work item | Week 2: crs_0088 (practice + mini-checklist, ~4h) | Stretch: crs_0077 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": "Saved",
+    "_id": "rec_0004"
+  },
+  {
+    "reco_id": "rec_0003",
+    "created_at": "2026-01-04T14:56:00Z",
+    "based_on_log_id": 1015,
+    "employee_id": "emp_02",
+    "manager_id": "mgr_03",
+    "team_id": "team_gamma",
+    "work_title_snapshot": "Patch dependency CVE in ml-pipelines",
+    "technologies_snapshot": [
+      "Dependency Management",
+      "SCA",
+      "Security"
+    ],
+    "skill_tags_input": [
+      "dependency-mgmt",
+      "security",
+      "sca"
+    ],
+    "recommended_course_ids": [
+      "crs_0007",
+      "crs_0096",
+      "crs_0082"
+    ],
+    "recommended_titles_snapshot": [
+      "Supply Chain Security and Container Scanning in CI at Scale",
+      "Supply Chain Security and Container Scanning in CI for Engineers",
+      "Scalable Secrets Management and Rotation Automation with Vault"
+    ],
+    "rationale": "Supply Chain Security and Container Scanning in CI at Scale: strengthens dependency-mgmt/security with practical patterns | Supply Chain Security and Container Scanning in CI for Engineers: strengthens security/sca with practical patterns | Scalable Secrets Management and Rotation Automation with Vault: strengthens sca/dependency-mgmt with practical patterns",
+    "plan_2weeks": "Week 1: crs_0007 (focus modules, ~6h) + apply to current work item | Week 2: crs_0096 (practice + mini-checklist, ~6h) | Stretch: crs_0082 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": null,
+    "_id": "rec_0003"
+  },
+  {
+    "reco_id": "rec_0006",
+    "created_at": "2026-01-04T17:40:00Z",
+    "based_on_log_id": 1097,
+    "employee_id": "emp_01",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "Implement rate limiting for profile-service",
+    "technologies_snapshot": [
+      "Redis",
+      "API Gateway",
+      "Backend"
+    ],
+    "skill_tags_input": [
+      "caching",
+      "backend",
+      "api-gateway",
+      "platform",
+      "api-design"
+    ],
+    "recommended_course_ids": [
+      "crs_0051",
+      "crs_0061",
+      "crs_0079"
+    ],
+    "recommended_titles_snapshot": [
+      "Caching and Rate Limiting for High-Scale APIs: Billing Mastery",
+      "Production Caching and Rate Limiting for High-Scale APIs",
+      "Caching and Rate Limiting for High-Scale APIs: Profile Track"
+    ],
+    "rationale": "Caching and Rate Limiting for High-Scale APIs: Billing Mastery: strengthens caching/backend with practical patterns | Production Caching and Rate Limiting for High-Scale APIs: strengthens backend/api-gateway with practical patterns | Caching and Rate Limiting for High-Scale APIs: Profile Track: strengthens api-gateway/platform with practical patterns",
+    "plan_2weeks": "Week 1: crs_0051 (focus modules, ~8h) + apply to current work item | Week 2: crs_0061 (practice + mini-checklist, ~8h) | Stretch: crs_0079 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Slack",
+    "user_feedback": "Helpful",
+    "_id": "rec_0006"
+  },
+  {
+    "reco_id": "rec_0007",
+    "created_at": "2026-01-05T12:47:00Z",
+    "based_on_log_id": 1003,
+    "employee_id": "emp_04",
+    "manager_id": "mgr_03",
+    "team_id": "team_gamma",
+    "work_title_snapshot": "Cost optimization study for notifications",
+    "technologies_snapshot": [
+      "FinOps",
+      "AWS",
+      "Monitoring"
+    ],
+    "skill_tags_input": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "aws",
+      "observability",
+      "monitoring"
+    ],
+    "recommended_course_ids": [
+      "crs_0070",
+      "crs_0013",
+      "crs_0050"
+    ],
+    "recommended_titles_snapshot": [
+      "FinOps Fundamentals: Cloud Cost Optimization and Governance at Scale (2026)",
+      "Modern FinOps Fundamentals: Cloud Cost Optimization and Governance",
+      "FinOps Fundamentals: Cloud Cost Optimization and Governance in Practice"
+    ],
+    "rationale": "FinOps Fundamentals: Cloud Cost Optimization and Governance at Scale (2026): strengthens finops/cost-optimization with practical patterns | Modern FinOps Fundamentals: Cloud Cost Optimization and Governance: strengthens cost-optimization/cloud with practical patterns | FinOps Fundamentals: Cloud Cost Optimization and Governance in Practice: strengthens cloud/aws with practical patterns",
+    "plan_2weeks": "Week 1: crs_0070 (focus modules, ~6h) + apply to current work item | Week 2: crs_0013 (practice + mini-checklist, ~6h) | Stretch: crs_0050 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Saved",
+    "_id": "rec_0007"
+  },
+  {
+    "reco_id": "rec_0008",
+    "created_at": "2026-01-06T16:23:00Z",
+    "based_on_log_id": 1078,
+    "employee_id": "emp_05",
+    "manager_id": "mgr_02",
+    "team_id": "team_beta",
+    "work_title_snapshot": "Secrets rotation automation",
+    "technologies_snapshot": [
+      "Vault",
+      "Terraform",
+      "Automation"
+    ],
+    "skill_tags_input": [
+      "secrets",
+      "security",
+      "iac",
+      "platform",
+      "automation"
+    ],
+    "recommended_course_ids": [
+      "crs_0005",
+      "crs_0031",
+      "crs_0035"
+    ],
+    "recommended_titles_snapshot": [
+      "Infrastructure as Code with Terraform and Cloud Foundations: Analytics Essentials",
+      "Secrets Management and Rotation Automation with Vault Bootcamp",
+      "Secrets Management and Rotation Automation with Vault in Practice"
+    ],
+    "rationale": "Infrastructure as Code with Terraform and Cloud Foundations: Analytics Essentials: strengthens secrets/security with practical patterns | Secrets Management and Rotation Automation with Vault Bootcamp: strengthens security/iac with practical patterns | Secrets Management and Rotation Automation with Vault in Practice: strengthens iac/platform with practical patterns",
+    "plan_2weeks": "Week 1: crs_0005 (focus modules, ~6h) + apply to current work item | Week 2: crs_0031 (practice + mini-checklist, ~6h) | Stretch: crs_0035 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Slack",
+    "user_feedback": null,
+    "_id": "rec_0008"
+  },
+  {
+    "reco_id": "rec_0009",
+    "created_at": "2026-01-07T12:21:00Z",
+    "based_on_log_id": 1084,
+    "employee_id": "emp_04",
+    "manager_id": "mgr_03",
+    "team_id": "team_gamma",
+    "work_title_snapshot": "Resolve auth redirect loop in analytics-api",
+    "technologies_snapshot": [
+      "OAuth",
+      "OpenID Connect",
+      "Nginx"
+    ],
+    "skill_tags_input": [
+      "iam",
+      "security",
+      "edge",
+      "reliability"
+    ],
+    "recommended_course_ids": [
+      "crs_0019",
+      "crs_0059",
+      "crs_0039"
+    ],
+    "recommended_titles_snapshot": [
+      "Hands-on Edge Reliability with Nginx and Traffic Management",
+      "Modern Edge Reliability with Nginx and Traffic Management",
+      "Edge Reliability with Nginx and Traffic Management: Search Essentials"
+    ],
+    "rationale": "Hands-on Edge Reliability with Nginx and Traffic Management: strengthens iam/security with practical patterns | Modern Edge Reliability with Nginx and Traffic Management: strengthens security/edge with practical patterns | Edge Reliability with Nginx and Traffic Management: Search Essentials: strengthens edge/reliability with practical patterns",
+    "plan_2weeks": "Week 1: crs_0019 (focus modules, ~7h) + apply to current work item | Week 2: crs_0059 (practice + mini-checklist, ~7h) | Stretch: crs_0039 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": "Helpful",
+    "_id": "rec_0009"
+  },
+  {
+    "reco_id": "rec_0013",
+    "created_at": "2026-01-08T09:01:00Z",
+    "based_on_log_id": 1050,
+    "employee_id": "emp_07",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "Streaming ingestion for events",
+    "technologies_snapshot": [
+      "Kafka",
+      "Schema Registry",
+      "Python"
+    ],
+    "skill_tags_input": [
+      "streaming",
+      "kafka",
+      "data-platform",
+      "schemas",
+      "python",
+      "backend"
+    ],
+    "recommended_course_ids": [
+      "crs_0055",
+      "crs_0012",
+      "crs_0066"
+    ],
+    "recommended_titles_snapshot": [
+      "Production Practical Data Engineering with Streaming and Kafka",
+      "Practical Data Engineering with Streaming and Kafka in Practice",
+      "Scalable Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging"
+    ],
+    "rationale": "Production Practical Data Engineering with Streaming and Kafka: strengthens streaming/kafka with practical patterns | Practical Data Engineering with Streaming and Kafka in Practice: strengthens kafka/data-platform with practical patterns | Scalable Go for Backend Services: Concurrency, APIs, and Logging: strengthens data-platform/schemas with practical patterns",
+    "plan_2weeks": "Week 1: crs_0055 (focus modules, ~3h) + apply to current work item | Week 2: crs_0012 (practice + mini-checklist, ~3h) | Stretch: crs_0066 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Slack",
+    "user_feedback": "Saved",
+    "_id": "rec_0013"
+  },
+  {
+    "reco_id": "rec_0010",
+    "created_at": "2026-01-08T10:51:00Z",
+    "based_on_log_id": 1002,
+    "employee_id": "emp_09",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "Add audit logging for privileged actions",
+    "technologies_snapshot": [
+      "Go",
+      "Logging",
+      "Security"
+    ],
+    "skill_tags_input": [
+      "backend",
+      "golang",
+      "observability",
+      "logging",
+      "security"
+    ],
+    "recommended_course_ids": [
+      "crs_0022",
+      "crs_0069",
+      "crs_0053"
+    ],
+    "recommended_titles_snapshot": [
+      "Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging Foundations",
+      "Scalable Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging (Capstone)",
+      "Production Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging"
+    ],
+    "rationale": "Go for Backend Services: Concurrency, APIs, and Logging Foundations: strengthens backend/golang with practical patterns | Scalable Go for Backend Services: Concurrency, APIs, and Logging (Capstone): strengthens golang/observability with practical patterns | Production Go for Backend Services: Concurrency, APIs, and Logging: strengthens observability/logging with practical patterns",
+    "plan_2weeks": "Week 1: crs_0022 (focus modules, ~4h) + apply to current work item | Week 2: crs_0069 (practice + mini-checklist, ~4h) | Stretch: crs_0053 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": null,
+    "_id": "rec_0010"
+  },
+  {
+    "reco_id": "rec_0012",
+    "created_at": "2026-01-08T11:33:00Z",
+    "based_on_log_id": 1028,
+    "employee_id": "emp_04",
+    "manager_id": "mgr_03",
+    "team_id": "team_gamma",
+    "work_title_snapshot": "Secrets rotation automation",
+    "technologies_snapshot": [
+      "Vault",
+      "Terraform",
+      "Automation"
+    ],
+    "skill_tags_input": [
+      "secrets",
+      "security",
+      "iac",
+      "platform",
+      "automation"
+    ],
+    "recommended_course_ids": [
+      "crs_0031",
+      "crs_0005",
+      "crs_0008"
+    ],
+    "recommended_titles_snapshot": [
+      "Secrets Management and Rotation Automation with Vault Bootcamp",
+      "Infrastructure as Code with Terraform and Cloud Foundations: Analytics Essentials",
+      "Advanced Infrastructure as Code with Terraform and Cloud Foundations"
+    ],
+    "rationale": "Secrets Management and Rotation Automation with Vault Bootcamp: strengthens secrets/security with practical patterns | Infrastructure as Code with Terraform and Cloud Foundations: Analytics Essentials: strengthens security/iac with practical patterns | Advanced Infrastructure as Code with Terraform and Cloud Foundations: strengthens iac/platform with practical patterns",
+    "plan_2weeks": "Week 1: crs_0031 (focus modules, ~4h) + apply to current work item | Week 2: crs_0005 (practice + mini-checklist, ~4h) | Stretch: crs_0008 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Saved",
+    "_id": "rec_0012"
+  },
+  {
+    "reco_id": "rec_0011",
+    "created_at": "2026-01-08T17:27:00Z",
+    "based_on_log_id": 1021,
+    "employee_id": "emp_05",
+    "manager_id": "mgr_02",
+    "team_id": "team_beta",
+    "work_title_snapshot": "Evaluate vector search options for identity-service",
+    "technologies_snapshot": [
+      "Embeddings",
+      "Vector Search",
+      "RAG"
+    ],
+    "skill_tags_input": [
+      "ml",
+      "embeddings",
+      "retrieval",
+      "vector-search",
+      "rag",
+      "llm-systems"
+    ],
+    "recommended_course_ids": [
+      "crs_0080",
+      "crs_0074",
+      "crs_0057"
+    ],
+    "recommended_titles_snapshot": [
+      "RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations",
+      "Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation",
+      "Advanced Vector Search and Embeddings for Retrieval Systems"
+    ],
+    "rationale": "RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations: strengthens ml/embeddings with practical patterns | Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation: strengthens embeddings/retrieval with practical patterns | Advanced Vector Search and Embeddings for Retrieval Systems: strengthens retrieval/vector-search with practical patterns",
+    "plan_2weeks": "Week 1: crs_0080 (focus modules, ~8h) + apply to current work item | Week 2: crs_0074 (practice + mini-checklist, ~8h) | Stretch: crs_0057 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": null,
+    "_id": "rec_0011"
+  },
+  {
+    "reco_id": "rec_0014",
+    "created_at": "2026-01-09T18:59:00Z",
+    "based_on_log_id": 1038,
+    "employee_id": "emp_06",
+    "manager_id": "mgr_02",
+    "team_id": "team_beta",
+    "work_title_snapshot": "Resolve auth redirect loop in orders",
+    "technologies_snapshot": [
+      "OAuth",
+      "OpenID Connect",
+      "Nginx"
+    ],
+    "skill_tags_input": [
+      "iam",
+      "security",
+      "edge",
+      "reliability"
+    ],
+    "recommended_course_ids": [
+      "crs_0039",
+      "crs_0032",
+      "crs_0054"
+    ],
+    "recommended_titles_snapshot": [
+      "Edge Reliability with Nginx and Traffic Management: Search Essentials",
+      "Secure Authentication with OAuth and OpenID Connect at Scale",
+      "Secure Authentication with OAuth and OpenID Connect: Search Track"
+    ],
+    "rationale": "Edge Reliability with Nginx and Traffic Management: Search Essentials: strengthens iam/security with practical patterns | Secure Authentication with OAuth and OpenID Connect at Scale: strengthens security/edge with practical patterns | Secure Authentication with OAuth and OpenID Connect: Search Track: strengthens edge/reliability with practical patterns",
+    "plan_2weeks": "Week 1: crs_0039 (focus modules, ~4h) + apply to current work item | Week 2: crs_0032 (practice + mini-checklist, ~4h) | Stretch: crs_0054 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": "Helpful",
+    "_id": "rec_0014"
+  },
+  {
+    "reco_id": "rec_0015",
+    "created_at": "2026-01-10T14:24:00Z",
+    "based_on_log_id": 1074,
+    "employee_id": "emp_11",
+    "manager_id": "mgr_03",
+    "team_id": "team_gamma",
+    "work_title_snapshot": "Evaluate vector search options for profile-service",
+    "technologies_snapshot": [
+      "Embeddings",
+      "Vector Search",
+      "RAG"
+    ],
+    "skill_tags_input": [
+      "ml",
+      "embeddings",
+      "retrieval",
+      "vector-search",
+      "rag",
+      "llm-systems"
+    ],
+    "recommended_course_ids": [
+      "crs_0080",
+      "crs_0074",
+      "crs_0076"
+    ],
+    "recommended_titles_snapshot": [
+      "RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations",
+      "Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation",
+      "Hands-on Vector Search and Embeddings for Retrieval Systems"
+    ],
+    "rationale": "RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations: strengthens ml/embeddings with practical patterns | Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation: strengthens embeddings/retrieval with practical patterns | Hands-on Vector Search and Embeddings for Retrieval Systems: strengthens retrieval/vector-search with practical patterns",
+    "plan_2weeks": "Week 1: crs_0080 (focus modules, ~8h) + apply to current work item | Week 2: crs_0074 (practice + mini-checklist, ~8h) | Stretch: crs_0076 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": null,
+    "_id": "rec_0015"
+  },
+  {
+    "reco_id": "rec_0016",
+    "created_at": "2026-01-10T15:58:00Z",
+    "based_on_log_id": 1075,
+    "employee_id": "emp_12",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "Fix flaky integration tests in data-ingest",
+    "technologies_snapshot": [
+      "PyTest",
+      "CI",
+      "Mocking"
+    ],
+    "skill_tags_input": [
+      "testing",
+      "quality",
+      "cicd"
+    ],
+    "recommended_course_ids": [
+      "crs_0088",
+      "crs_0024",
+      "crs_0015"
+    ],
+    "recommended_titles_snapshot": [
+      "Testing Strategies with PyTest and Mocking for Reliable Systems for Engineers",
+      "Testing Strategies with PyTest and Mocking for Reliable Systems: Analytics Playbook",
+      "Scalable Testing Strategies with PyTest and Mocking for Reliable Systems"
+    ],
+    "rationale": "Testing Strategies with PyTest and Mocking for Reliable Systems for Engineers: strengthens testing/quality with practical patterns | Testing Strategies with PyTest and Mocking for Reliable Systems: Analytics Playbook: strengthens quality/cicd with practical patterns | Scalable Testing Strategies with PyTest and Mocking for Reliable Systems: strengthens cicd/testing with practical patterns",
+    "plan_2weeks": "Week 1: crs_0088 (focus modules, ~4h) + apply to current work item | Week 2: crs_0024 (practice + mini-checklist, ~4h) | Stretch: crs_0015 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Saved",
+    "_id": "rec_0016"
+  },
+  {
+    "reco_id": "rec_0017",
+    "created_at": "2026-01-11T12:48:00Z",
+    "based_on_log_id": 1011,
+    "employee_id": "emp_08",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "Feature flag rollout for billing-service",
+    "technologies_snapshot": [
+      "Feature Flags",
+      "Observability",
+      "Backend"
+    ],
+    "skill_tags_input": [
+      "release-engineering",
+      "feature-flags",
+      "risk-mitigation",
+      "observability",
+      "monitoring",
+      "alerting",
+      "backend",
+      "api-design"
+    ],
+    "recommended_course_ids": [
+      "crs_0047",
+      "crs_0063",
+      "crs_0014"
+    ],
+    "recommended_titles_snapshot": [
+      "Feature Flags and Progressive Delivery: Orders Track",
+      "Feature Flags and Progressive Delivery for Engineers",
+      "Secure Feature Flags and Progressive Delivery"
+    ],
+    "rationale": "Feature Flags and Progressive Delivery: Orders Track: strengthens release-engineering/feature-flags with practical patterns | Feature Flags and Progressive Delivery for Engineers: strengthens feature-flags/risk-mitigation with practical patterns | Secure Feature Flags and Progressive Delivery: strengthens risk-mitigation/observability with practical patterns",
+    "plan_2weeks": "Week 1: crs_0047 (focus modules, ~8h) + apply to current work item | Week 2: crs_0063 (practice + mini-checklist, ~8h) | Stretch: crs_0014 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": null,
+    "_id": "rec_0017"
+  },
+  {
+    "reco_id": "rec_0018",
+    "created_at": "2026-01-11T16:19:00Z",
+    "based_on_log_id": 1089,
+    "employee_id": "emp_08",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "Evaluate vector search options for search-api",
+    "technologies_snapshot": [
+      "Embeddings",
+      "Vector Search",
+      "RAG"
+    ],
+    "skill_tags_input": [
+      "ml",
+      "embeddings",
+      "retrieval",
+      "vector-search",
+      "rag",
+      "llm-systems"
+    ],
+    "recommended_course_ids": [
+      "crs_0074",
+      "crs_0080",
+      "crs_0057"
+    ],
+    "recommended_titles_snapshot": [
+      "Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation",
+      "RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations",
+      "Advanced Vector Search and Embeddings for Retrieval Systems"
+    ],
+    "rationale": "Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation: strengthens ml/embeddings with practical patterns | RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations: strengthens embeddings/retrieval with practical patterns | Advanced Vector Search and Embeddings for Retrieval Systems: strengthens retrieval/vector-search with practical patterns",
+    "plan_2weeks": "Week 1: crs_0074 (focus modules, ~3h) + apply to current work item | Week 2: crs_0080 (practice + mini-checklist, ~3h) | Stretch: crs_0057 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Slack",
+    "user_feedback": "Helpful",
+    "_id": "rec_0018"
+  },
+  {
+    "reco_id": "rec_0019",
+    "created_at": "2026-01-14T12:23:00Z",
+    "based_on_log_id": 1095,
+    "employee_id": "emp_05",
+    "manager_id": "mgr_02",
+    "team_id": "team_beta",
+    "work_title_snapshot": "CI/CD pipeline hardening for infra-modules",
+    "technologies_snapshot": [
+      "GitHub Actions",
+      "Docker",
+      "Trivy"
+    ],
+    "skill_tags_input": [
+      "cicd",
+      "automation",
+      "containers",
+      "security",
+      "supply-chain"
+    ],
+    "recommended_course_ids": [
+      "crs_0096",
+      "crs_0007",
+      "crs_0091"
+    ],
+    "recommended_titles_snapshot": [
+      "Supply Chain Security and Container Scanning in CI for Engineers",
+      "Supply Chain Security and Container Scanning in CI at Scale",
+      "Secrets Management and Rotation Automation with Vault for Engineers"
+    ],
+    "rationale": "Supply Chain Security and Container Scanning in CI for Engineers: strengthens cicd/automation with practical patterns | Supply Chain Security and Container Scanning in CI at Scale: strengthens automation/containers with practical patterns | Secrets Management and Rotation Automation with Vault for Engineers: strengthens containers/security with practical patterns",
+    "plan_2weeks": "Week 1: crs_0096 (focus modules, ~3h) + apply to current work item | Week 2: crs_0007 (practice + mini-checklist, ~3h) | Stretch: crs_0091 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Slack",
+    "user_feedback": "Helpful",
+    "_id": "rec_0019"
+  },
+  {
+    "reco_id": "rec_0021",
+    "created_at": "2026-01-15T12:46:00Z",
+    "based_on_log_id": 1042,
+    "employee_id": "emp_06",
+    "manager_id": "mgr_02",
+    "team_id": "team_beta",
+    "work_title_snapshot": "Resolve auth redirect loop in analytics-api",
+    "technologies_snapshot": [
+      "OAuth",
+      "OpenID Connect",
+      "Nginx"
+    ],
+    "skill_tags_input": [
+      "iam",
+      "security",
+      "edge",
+      "reliability"
+    ],
+    "recommended_course_ids": [
+      "crs_0056",
+      "crs_0006",
+      "crs_0059"
+    ],
+    "recommended_titles_snapshot": [
+      "Practical Edge Reliability with Nginx and Traffic Management",
+      "Secure Authentication with OAuth and OpenID Connect for Teams",
+      "Modern Edge Reliability with Nginx and Traffic Management"
+    ],
+    "rationale": "Practical Edge Reliability with Nginx and Traffic Management: strengthens iam/security with practical patterns | Secure Authentication with OAuth and OpenID Connect for Teams: strengthens security/edge with practical patterns | Modern Edge Reliability with Nginx and Traffic Management: strengthens edge/reliability with practical patterns",
+    "plan_2weeks": "Week 1: crs_0056 (focus modules, ~3h) + apply to current work item | Week 2: crs_0006 (practice + mini-checklist, ~3h) | Stretch: crs_0059 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": "Helpful",
+    "_id": "rec_0021"
+  },
+  {
+    "reco_id": "rec_0022",
+    "created_at": "2026-01-15T12:55:00Z",
+    "based_on_log_id": 1082,
+    "employee_id": "emp_08",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "CI/CD pipeline hardening for ml-pipelines",
+    "technologies_snapshot": [
+      "GitHub Actions",
+      "Docker",
+      "Trivy"
+    ],
+    "skill_tags_input": [
+      "cicd",
+      "automation",
+      "containers",
+      "security",
+      "supply-chain"
+    ],
+    "recommended_course_ids": [
+      "crs_0007",
+      "crs_0096",
+      "crs_0092"
+    ],
+    "recommended_titles_snapshot": [
+      "Supply Chain Security and Container Scanning in CI at Scale",
+      "Supply Chain Security and Container Scanning in CI for Engineers",
+      "Secrets Management and Rotation Automation with Vault: Orders Program"
+    ],
+    "rationale": "Supply Chain Security and Container Scanning in CI at Scale: strengthens cicd/automation with practical patterns | Supply Chain Security and Container Scanning in CI for Engineers: strengthens automation/containers with practical patterns | Secrets Management and Rotation Automation with Vault: Orders Program: strengthens containers/security with practical patterns",
+    "plan_2weeks": "Week 1: crs_0007 (focus modules, ~6h) + apply to current work item | Week 2: crs_0096 (practice + mini-checklist, ~6h) | Stretch: crs_0092 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Slack",
+    "user_feedback": null,
+    "_id": "rec_0022"
+  },
+  {
+    "reco_id": "rec_0020",
+    "created_at": "2026-01-15T13:56:00Z",
+    "based_on_log_id": 1013,
+    "employee_id": "emp_09",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "Implement rate limiting for billing-service",
+    "technologies_snapshot": [
+      "Redis",
+      "API Gateway",
+      "Backend"
+    ],
+    "skill_tags_input": [
+      "caching",
+      "backend",
+      "api-gateway",
+      "platform",
+      "api-design"
+    ],
+    "recommended_course_ids": [
+      "crs_0079",
+      "crs_0061",
+      "crs_0051"
+    ],
+    "recommended_titles_snapshot": [
+      "Caching and Rate Limiting for High-Scale APIs: Profile Track",
+      "Production Caching and Rate Limiting for High-Scale APIs",
+      "Caching and Rate Limiting for High-Scale APIs: Billing Mastery"
+    ],
+    "rationale": "Caching and Rate Limiting for High-Scale APIs: Profile Track: strengthens caching/backend with practical patterns | Production Caching and Rate Limiting for High-Scale APIs: strengthens backend/api-gateway with practical patterns | Caching and Rate Limiting for High-Scale APIs: Billing Mastery: strengthens api-gateway/platform with practical patterns",
+    "plan_2weeks": "Week 1: crs_0079 (focus modules, ~6h) + apply to current work item | Week 2: crs_0061 (practice + mini-checklist, ~6h) | Stretch: crs_0051 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Helpful",
+    "_id": "rec_0020"
+  },
+  {
+    "reco_id": "rec_0023",
+    "created_at": "2026-01-15T16:25:00Z",
+    "based_on_log_id": 1083,
+    "employee_id": "emp_02",
+    "manager_id": "mgr_03",
+    "team_id": "team_gamma",
+    "work_title_snapshot": "Patch dependency CVE in data-ingest",
+    "technologies_snapshot": [
+      "Dependency Management",
+      "SCA",
+      "Security"
+    ],
+    "skill_tags_input": [
+      "dependency-mgmt",
+      "security",
+      "sca"
+    ],
+    "recommended_course_ids": [
+      "crs_0054",
+      "crs_0035",
+      "crs_0049"
+    ],
+    "recommended_titles_snapshot": [
+      "Secure Authentication with OAuth and OpenID Connect: Search Track",
+      "Secrets Management and Rotation Automation with Vault in Practice",
+      "Modern Secure Authentication with OAuth and OpenID Connect"
+    ],
+    "rationale": "Secure Authentication with OAuth and OpenID Connect: Search Track: strengthens dependency-mgmt/security with practical patterns | Secrets Management and Rotation Automation with Vault in Practice: strengthens security/sca with practical patterns | Modern Secure Authentication with OAuth and OpenID Connect: strengthens sca/dependency-mgmt with practical patterns",
+    "plan_2weeks": "Week 1: crs_0054 (focus modules, ~3h) + apply to current work item | Week 2: crs_0035 (practice + mini-checklist, ~3h) | Stretch: crs_0049 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Helpful",
+    "_id": "rec_0023"
+  },
+  {
+    "reco_id": "rec_0025",
+    "created_at": "2026-01-16T14:41:00Z",
+    "based_on_log_id": 1087,
+    "employee_id": "emp_07",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "Evaluate vector search options for profile-service",
+    "technologies_snapshot": [
+      "Embeddings",
+      "Vector Search",
+      "RAG"
+    ],
+    "skill_tags_input": [
+      "ml",
+      "embeddings",
+      "retrieval",
+      "vector-search",
+      "rag",
+      "llm-systems"
+    ],
+    "recommended_course_ids": [
+      "crs_0080",
+      "crs_0074",
+      "crs_0076"
+    ],
+    "recommended_titles_snapshot": [
+      "RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations",
+      "Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation",
+      "Hands-on Vector Search and Embeddings for Retrieval Systems"
+    ],
+    "rationale": "RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations: strengthens ml/embeddings with practical patterns | Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation: strengthens embeddings/retrieval with practical patterns | Hands-on Vector Search and Embeddings for Retrieval Systems: strengthens retrieval/vector-search with practical patterns",
+    "plan_2weeks": "Week 1: crs_0080 (focus modules, ~8h) + apply to current work item | Week 2: crs_0074 (practice + mini-checklist, ~8h) | Stretch: crs_0076 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Not Helpful",
+    "_id": "rec_0025"
+  },
+  {
+    "reco_id": "rec_0024",
+    "created_at": "2026-01-16T15:16:00Z",
+    "based_on_log_id": 1024,
+    "employee_id": "emp_05",
+    "manager_id": "mgr_02",
+    "team_id": "team_beta",
+    "work_title_snapshot": "Secrets rotation automation",
+    "technologies_snapshot": [
+      "Vault",
+      "Terraform",
+      "Automation"
+    ],
+    "skill_tags_input": [
+      "secrets",
+      "security",
+      "iac",
+      "platform",
+      "automation"
+    ],
+    "recommended_course_ids": [
+      "crs_0048",
+      "crs_0035",
+      "crs_0092"
+    ],
+    "recommended_titles_snapshot": [
+      "Infrastructure as Code with Terraform and Cloud Foundations in Practice",
+      "Secrets Management and Rotation Automation with Vault in Practice",
+      "Secrets Management and Rotation Automation with Vault: Orders Program"
+    ],
+    "rationale": "Infrastructure as Code with Terraform and Cloud Foundations in Practice: strengthens secrets/security with practical patterns | Secrets Management and Rotation Automation with Vault in Practice: strengthens security/iac with practical patterns | Secrets Management and Rotation Automation with Vault: Orders Program: strengthens iac/platform with practical patterns",
+    "plan_2weeks": "Week 1: crs_0048 (focus modules, ~8h) + apply to current work item | Week 2: crs_0035 (practice + mini-checklist, ~8h) | Stretch: crs_0092 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Helpful",
+    "_id": "rec_0024"
+  },
+  {
+    "reco_id": "rec_0026",
+    "created_at": "2026-01-17T09:19:00Z",
+    "based_on_log_id": 1069,
+    "employee_id": "emp_08",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "Feature flag rollout for profile-service",
+    "technologies_snapshot": [
+      "Feature Flags",
+      "Observability",
+      "Backend"
+    ],
+    "skill_tags_input": [
+      "release-engineering",
+      "feature-flags",
+      "risk-mitigation",
+      "observability",
+      "monitoring",
+      "alerting",
+      "backend",
+      "api-design"
+    ],
+    "recommended_course_ids": [
+      "crs_0063",
+      "crs_0047",
+      "crs_0001"
+    ],
+    "recommended_titles_snapshot": [
+      "Feature Flags and Progressive Delivery for Engineers",
+      "Feature Flags and Progressive Delivery: Orders Track",
+      "Feature Flags and Progressive Delivery in Practice"
+    ],
+    "rationale": "Feature Flags and Progressive Delivery for Engineers: strengthens release-engineering/feature-flags with practical patterns | Feature Flags and Progressive Delivery: Orders Track: strengthens feature-flags/risk-mitigation with practical patterns | Feature Flags and Progressive Delivery in Practice: strengthens risk-mitigation/observability with practical patterns",
+    "plan_2weeks": "Week 1: crs_0063 (focus modules, ~8h) + apply to current work item | Week 2: crs_0047 (practice + mini-checklist, ~8h) | Stretch: crs_0001 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Slack",
+    "user_feedback": "Not Helpful",
+    "_id": "rec_0026"
+  },
+  {
+    "reco_id": "rec_0027",
+    "created_at": "2026-01-17T14:18:00Z",
+    "based_on_log_id": 1072,
+    "employee_id": "emp_07",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "Add audit logging for privileged actions",
+    "technologies_snapshot": [
+      "Go",
+      "Logging",
+      "Security"
+    ],
+    "skill_tags_input": [
+      "backend",
+      "golang",
+      "observability",
+      "logging",
+      "security"
+    ],
+    "recommended_course_ids": [
+      "crs_0053",
+      "crs_0042",
+      "crs_0086"
+    ],
+    "recommended_titles_snapshot": [
+      "Production Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging",
+      "Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging for Teams",
+      "Production Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging (v2)"
+    ],
+    "rationale": "Production Go for Backend Services: Concurrency, APIs, and Logging: strengthens backend/golang with practical patterns | Go for Backend Services: Concurrency, APIs, and Logging for Teams: strengthens golang/observability with practical patterns | Production Go for Backend Services: Concurrency, APIs, and Logging (v2): strengthens observability/logging with practical patterns",
+    "plan_2weeks": "Week 1: crs_0053 (focus modules, ~3h) + apply to current work item | Week 2: crs_0042 (practice + mini-checklist, ~3h) | Stretch: crs_0086 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Saved",
+    "_id": "rec_0027"
+  },
+  {
+    "reco_id": "rec_0028",
+    "created_at": "2026-01-18T09:26:00Z",
+    "based_on_log_id": 1049,
+    "employee_id": "emp_01",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "Database schema migration for identity-service",
+    "technologies_snapshot": [
+      "PostgreSQL",
+      "SQL",
+      "Liquibase"
+    ],
+    "skill_tags_input": [
+      "database",
+      "sql",
+      "database-migrations",
+      "platform"
+    ],
+    "recommended_course_ids": [
+      "crs_0085",
+      "crs_0037",
+      "crs_0045"
+    ],
+    "recommended_titles_snapshot": [
+      "Zero-Downtime Database Migrations with Liquibase for Engineers",
+      "Zero-Downtime Database Migrations with Liquibase: Orders Playbook",
+      "Advanced Zero-Downtime Database Migrations with Liquibase"
+    ],
+    "rationale": "Zero-Downtime Database Migrations with Liquibase for Engineers: strengthens database/sql with practical patterns | Zero-Downtime Database Migrations with Liquibase: Orders Playbook: strengthens sql/database-migrations with practical patterns | Advanced Zero-Downtime Database Migrations with Liquibase: strengthens database-migrations/platform with practical patterns",
+    "plan_2weeks": "Week 1: crs_0085 (focus modules, ~3h) + apply to current work item | Week 2: crs_0037 (practice + mini-checklist, ~3h) | Stretch: crs_0045 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Saved",
+    "_id": "rec_0028"
+  },
+  {
+    "reco_id": "rec_0029",
+    "created_at": "2026-01-18T18:18:00Z",
+    "based_on_log_id": 1067,
+    "employee_id": "emp_08",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "Resolve auth redirect loop in notifications",
+    "technologies_snapshot": [
+      "OAuth",
+      "OpenID Connect",
+      "Nginx"
+    ],
+    "skill_tags_input": [
+      "iam",
+      "security",
+      "edge",
+      "reliability"
+    ],
+    "recommended_course_ids": [
+      "crs_0019",
+      "crs_0039",
+      "crs_0054"
+    ],
+    "recommended_titles_snapshot": [
+      "Hands-on Edge Reliability with Nginx and Traffic Management",
+      "Edge Reliability with Nginx and Traffic Management: Search Essentials",
+      "Secure Authentication with OAuth and OpenID Connect: Search Track"
+    ],
+    "rationale": "Hands-on Edge Reliability with Nginx and Traffic Management: strengthens iam/security with practical patterns | Edge Reliability with Nginx and Traffic Management: Search Essentials: strengthens security/edge with practical patterns | Secure Authentication with OAuth and OpenID Connect: Search Track: strengthens edge/reliability with practical patterns",
+    "plan_2weeks": "Week 1: crs_0019 (focus modules, ~7h) + apply to current work item | Week 2: crs_0039 (practice + mini-checklist, ~7h) | Stretch: crs_0054 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": "Helpful",
+    "_id": "rec_0029"
+  },
+  {
+    "reco_id": "rec_0031",
+    "created_at": "2026-01-20T11:42:00Z",
+    "based_on_log_id": 1088,
+    "employee_id": "emp_09",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "Fix flaky integration tests in infra-modules",
+    "technologies_snapshot": [
+      "PyTest",
+      "CI",
+      "Mocking"
+    ],
+    "skill_tags_input": [
+      "testing",
+      "quality",
+      "cicd"
+    ],
+    "recommended_course_ids": [
+      "crs_0077",
+      "crs_0084",
+      "crs_0015"
+    ],
+    "recommended_titles_snapshot": [
+      "Testing Strategies with PyTest and Mocking for Reliable Systems: Search Series",
+      "Testing Strategies with PyTest and Mocking for Reliable Systems at Scale",
+      "Scalable Testing Strategies with PyTest and Mocking for Reliable Systems"
+    ],
+    "rationale": "Testing Strategies with PyTest and Mocking for Reliable Systems: Search Series: strengthens testing/quality with practical patterns | Testing Strategies with PyTest and Mocking for Reliable Systems at Scale: strengthens quality/cicd with practical patterns | Scalable Testing Strategies with PyTest and Mocking for Reliable Systems: strengthens cicd/testing with practical patterns",
+    "plan_2weeks": "Week 1: crs_0077 (focus modules, ~5h) + apply to current work item | Week 2: crs_0084 (practice + mini-checklist, ~5h) | Stretch: crs_0015 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Slack",
+    "user_feedback": "Helpful",
+    "_id": "rec_0031"
+  },
+  {
+    "reco_id": "rec_0030",
+    "created_at": "2026-01-20T17:17:00Z",
+    "based_on_log_id": 1041,
+    "employee_id": "emp_09",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "Feature flag rollout for search-api",
+    "technologies_snapshot": [
+      "Feature Flags",
+      "Observability",
+      "Backend"
+    ],
+    "skill_tags_input": [
+      "release-engineering",
+      "feature-flags",
+      "risk-mitigation",
+      "observability",
+      "monitoring",
+      "alerting",
+      "backend",
+      "api-design"
+    ],
+    "recommended_course_ids": [
+      "crs_0010",
+      "crs_0014",
+      "crs_0047"
+    ],
+    "recommended_titles_snapshot": [
+      "Feature Flags and Progressive Delivery: Analytics Essentials",
+      "Secure Feature Flags and Progressive Delivery",
+      "Feature Flags and Progressive Delivery: Orders Track"
+    ],
+    "rationale": "Feature Flags and Progressive Delivery: Analytics Essentials: strengthens release-engineering/feature-flags with practical patterns | Secure Feature Flags and Progressive Delivery: strengthens feature-flags/risk-mitigation with practical patterns | Feature Flags and Progressive Delivery: Orders Track: strengthens risk-mitigation/observability with practical patterns",
+    "plan_2weeks": "Week 1: crs_0010 (focus modules, ~3h) + apply to current work item | Week 2: crs_0014 (practice + mini-checklist, ~3h) | Stretch: crs_0047 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": "Helpful",
+    "_id": "rec_0030"
+  },
+  {
+    "reco_id": "rec_0033",
+    "created_at": "2026-01-21T11:54:00Z",
+    "based_on_log_id": 1017,
+    "employee_id": "emp_09",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "Secrets rotation automation",
+    "technologies_snapshot": [
+      "Vault",
+      "Terraform",
+      "Automation"
+    ],
+    "skill_tags_input": [
+      "secrets",
+      "security",
+      "iac",
+      "platform",
+      "automation"
+    ],
+    "recommended_course_ids": [
+      "crs_0048",
+      "crs_0008",
+      "crs_0031"
+    ],
+    "recommended_titles_snapshot": [
+      "Infrastructure as Code with Terraform and Cloud Foundations in Practice",
+      "Advanced Infrastructure as Code with Terraform and Cloud Foundations",
+      "Secrets Management and Rotation Automation with Vault Bootcamp"
+    ],
+    "rationale": "Infrastructure as Code with Terraform and Cloud Foundations in Practice: strengthens secrets/security with practical patterns | Advanced Infrastructure as Code with Terraform and Cloud Foundations: strengthens security/iac with practical patterns | Secrets Management and Rotation Automation with Vault Bootcamp: strengthens iac/platform with practical patterns",
+    "plan_2weeks": "Week 1: crs_0048 (focus modules, ~8h) + apply to current work item | Week 2: crs_0008 (practice + mini-checklist, ~8h) | Stretch: crs_0031 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": "Helpful",
+    "_id": "rec_0033"
+  },
+  {
+    "reco_id": "rec_0032",
+    "created_at": "2026-01-21T18:19:00Z",
+    "based_on_log_id": 1001,
+    "employee_id": "emp_02",
+    "manager_id": "mgr_03",
+    "team_id": "team_gamma",
+    "work_title_snapshot": "Feature flag rollout for profile-service",
+    "technologies_snapshot": [
+      "Feature Flags",
+      "Observability",
+      "Backend"
+    ],
+    "skill_tags_input": [
+      "release-engineering",
+      "feature-flags",
+      "risk-mitigation",
+      "observability",
+      "monitoring",
+      "alerting",
+      "backend",
+      "api-design"
+    ],
+    "recommended_course_ids": [
+      "crs_0014",
+      "crs_0063",
+      "crs_0010"
+    ],
+    "recommended_titles_snapshot": [
+      "Secure Feature Flags and Progressive Delivery",
+      "Feature Flags and Progressive Delivery for Engineers",
+      "Feature Flags and Progressive Delivery: Analytics Essentials"
+    ],
+    "rationale": "Secure Feature Flags and Progressive Delivery: strengthens release-engineering/feature-flags with practical patterns | Feature Flags and Progressive Delivery for Engineers: strengthens feature-flags/risk-mitigation with practical patterns | Feature Flags and Progressive Delivery: Analytics Essentials: strengthens risk-mitigation/observability with practical patterns",
+    "plan_2weeks": "Week 1: crs_0014 (focus modules, ~8h) + apply to current work item | Week 2: crs_0063 (practice + mini-checklist, ~8h) | Stretch: crs_0010 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Helpful",
+    "_id": "rec_0032"
+  },
+  {
+    "reco_id": "rec_0034",
+    "created_at": "2026-01-25T13:35:00Z",
+    "based_on_log_id": 1055,
+    "employee_id": "emp_07",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "Add audit logging for privileged actions",
+    "technologies_snapshot": [
+      "Go",
+      "Logging",
+      "Security"
+    ],
+    "skill_tags_input": [
+      "backend",
+      "golang",
+      "observability",
+      "logging",
+      "security"
+    ],
+    "recommended_course_ids": [
+      "crs_0060",
+      "crs_0022",
+      "crs_0004"
+    ],
+    "recommended_titles_snapshot": [
+      "Advanced Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging",
+      "Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging Foundations",
+      "Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging at Scale"
+    ],
+    "rationale": "Advanced Go for Backend Services: Concurrency, APIs, and Logging: strengthens backend/golang with practical patterns | Go for Backend Services: Concurrency, APIs, and Logging Foundations: strengthens golang/observability with practical patterns | Go for Backend Services: Concurrency, APIs, and Logging at Scale: strengthens observability/logging with practical patterns",
+    "plan_2weeks": "Week 1: crs_0060 (focus modules, ~6h) + apply to current work item | Week 2: crs_0022 (practice + mini-checklist, ~6h) | Stretch: crs_0004 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Helpful",
+    "_id": "rec_0034"
+  },
+  {
+    "reco_id": "rec_0035",
+    "created_at": "2026-01-26T18:48:00Z",
+    "based_on_log_id": 1047,
+    "employee_id": "emp_09",
+    "manager_id": "mgr_01",
+    "team_id": "team_alpha",
+    "work_title_snapshot": "Cost optimization study for search-api",
+    "technologies_snapshot": [
+      "FinOps",
+      "AWS",
+      "Monitoring"
+    ],
+    "skill_tags_input": [
+      "finops",
+      "cost-optimization",
+      "cloud",
+      "aws",
+      "observability",
+      "monitoring"
+    ],
+    "recommended_course_ids": [
+      "crs_0009",
+      "crs_0073",
+      "crs_0071"
+    ],
+    "recommended_titles_snapshot": [
+      "FinOps Fundamentals: Cloud Cost Optimization and Governance Foundations",
+      "FinOps Fundamentals: Cloud Cost Optimization and Governance: Identity Track",
+      "FinOps Fundamentals: Cloud Cost Optimization and Governance: Orders Essentials"
+    ],
+    "rationale": "FinOps Fundamentals: Cloud Cost Optimization and Governance Foundations: strengthens finops/cost-optimization with practical patterns | FinOps Fundamentals: Cloud Cost Optimization and Governance: Identity Track: strengthens cost-optimization/cloud with practical patterns | FinOps Fundamentals: Cloud Cost Optimization and Governance: Orders Essentials: strengthens cloud/aws with practical patterns",
+    "plan_2weeks": "Week 1: crs_0009 (focus modules, ~8h) + apply to current work item | Week 2: crs_0073 (practice + mini-checklist, ~8h) | Stretch: crs_0071 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": null,
+    "_id": "rec_0035"
+  },
+  {
+    "reco_id": "rec_0036",
+    "created_at": "2026-01-27T09:51:00Z",
+    "based_on_log_id": 1034,
+    "employee_id": "emp_04",
+    "manager_id": "mgr_03",
+    "team_id": "team_gamma",
+    "work_title_snapshot": "Patch dependency CVE in web-dashboard",
+    "technologies_snapshot": [
+      "Dependency Management",
+      "SCA",
+      "Security"
+    ],
+    "skill_tags_input": [
+      "dependency-mgmt",
+      "security",
+      "sca"
+    ],
+    "recommended_course_ids": [
+      "crs_0007",
+      "crs_0096",
+      "crs_0054"
+    ],
+    "recommended_titles_snapshot": [
+      "Supply Chain Security and Container Scanning in CI at Scale",
+      "Supply Chain Security and Container Scanning in CI for Engineers",
+      "Secure Authentication with OAuth and OpenID Connect: Search Track"
+    ],
+    "rationale": "Supply Chain Security and Container Scanning in CI at Scale: strengthens dependency-mgmt/security with practical patterns | Supply Chain Security and Container Scanning in CI for Engineers: strengthens security/sca with practical patterns | Secure Authentication with OAuth and OpenID Connect: Search Track: strengthens sca/dependency-mgmt with practical patterns",
+    "plan_2weeks": "Week 1: crs_0007 (focus modules, ~6h) + apply to current work item | Week 2: crs_0096 (practice + mini-checklist, ~6h) | Stretch: crs_0054 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Slack",
+    "user_feedback": "Not Helpful",
+    "_id": "rec_0036"
+  },
+  {
+    "reco_id": "rec_0037",
+    "created_at": "2026-01-27T18:37:00Z",
+    "based_on_log_id": 1054,
+    "employee_id": "emp_02",
+    "manager_id": "mgr_03",
+    "team_id": "team_gamma",
+    "work_title_snapshot": "Evaluate vector search options for search-api",
+    "technologies_snapshot": [
+      "Embeddings",
+      "Vector Search",
+      "RAG"
+    ],
+    "skill_tags_input": [
+      "ml",
+      "embeddings",
+      "retrieval",
+      "vector-search",
+      "rag",
+      "llm-systems"
+    ],
+    "recommended_course_ids": [
+      "crs_0074",
+      "crs_0080",
+      "crs_0076"
+    ],
+    "recommended_titles_snapshot": [
+      "Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation",
+      "RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations",
+      "Hands-on Vector Search and Embeddings for Retrieval Systems"
+    ],
+    "rationale": "Practical RAG Systems: Build Production-Ready Retrieval-Augmented Generation: strengthens ml/embeddings with practical patterns | RAG Systems: Build Production-Ready Retrieval-Augmented Generation Foundations: strengthens embeddings/retrieval with practical patterns | Hands-on Vector Search and Embeddings for Retrieval Systems: strengthens retrieval/vector-search with practical patterns",
+    "plan_2weeks": "Week 1: crs_0074 (focus modules, ~3h) + apply to current work item | Week 2: crs_0080 (practice + mini-checklist, ~3h) | Stretch: crs_0076 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": null,
+    "_id": "rec_0037"
+  },
+  {
+    "reco_id": "rec_0038",
+    "created_at": "2026-01-28T12:22:00Z",
+    "based_on_log_id": 1016,
+    "employee_id": "emp_02",
+    "manager_id": "mgr_03",
+    "team_id": "team_gamma",
+    "work_title_snapshot": "CI/CD pipeline hardening for web-dashboard",
+    "technologies_snapshot": [
+      "GitHub Actions",
+      "Docker",
+      "Trivy"
+    ],
+    "skill_tags_input": [
+      "cicd",
+      "automation",
+      "containers",
+      "security",
+      "supply-chain"
+    ],
+    "recommended_course_ids": [
+      "crs_0096",
+      "crs_0007",
+      "crs_0034"
+    ],
+    "recommended_titles_snapshot": [
+      "Supply Chain Security and Container Scanning in CI for Engineers",
+      "Supply Chain Security and Container Scanning in CI at Scale",
+      "Secure CI/CD with GitHub Actions and Modern DevOps"
+    ],
+    "rationale": "Supply Chain Security and Container Scanning in CI for Engineers: strengthens cicd/automation with practical patterns | Supply Chain Security and Container Scanning in CI at Scale: strengthens automation/containers with practical patterns | Secure CI/CD with GitHub Actions and Modern DevOps: strengthens containers/security with practical patterns",
+    "plan_2weeks": "Week 1: crs_0096 (focus modules, ~3h) + apply to current work item | Week 2: crs_0007 (practice + mini-checklist, ~3h) | Stretch: crs_0034 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Teams",
+    "user_feedback": null,
+    "_id": "rec_0038"
+  },
+  {
+    "reco_id": "rec_0039",
+    "created_at": "2026-01-30T12:08:00Z",
+    "based_on_log_id": 1018,
+    "employee_id": "emp_08",
+    "manager_id": "mgr_04",
+    "team_id": "team_delta",
+    "work_title_snapshot": "Fix flaky integration tests in data-ingest",
+    "technologies_snapshot": [
+      "PyTest",
+      "CI",
+      "Mocking"
+    ],
+    "skill_tags_input": [
+      "testing",
+      "quality",
+      "cicd"
+    ],
+    "recommended_course_ids": [
+      "crs_0015",
+      "crs_0099",
+      "crs_0088"
+    ],
+    "recommended_titles_snapshot": [
+      "Scalable Testing Strategies with PyTest and Mocking for Reliable Systems",
+      "Testing Strategies with PyTest and Mocking for Reliable Systems: Orders Series",
+      "Testing Strategies with PyTest and Mocking for Reliable Systems for Engineers"
+    ],
+    "rationale": "Scalable Testing Strategies with PyTest and Mocking for Reliable Systems: strengthens testing/quality with practical patterns | Testing Strategies with PyTest and Mocking for Reliable Systems: Orders Series: strengthens quality/cicd with practical patterns | Testing Strategies with PyTest and Mocking for Reliable Systems for Engineers: strengthens cicd/testing with practical patterns",
+    "plan_2weeks": "Week 1: crs_0015 (focus modules, ~4h) + apply to current work item | Week 2: crs_0099 (practice + mini-checklist, ~4h) | Stretch: crs_0088 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": "Helpful",
+    "_id": "rec_0039"
+  },
+  {
+    "reco_id": "rec_0040",
+    "created_at": "2026-01-31T10:20:00Z",
+    "based_on_log_id": 1091,
+    "employee_id": "emp_05",
+    "manager_id": "mgr_02",
+    "team_id": "team_beta",
+    "work_title_snapshot": "Add audit logging for privileged actions",
+    "technologies_snapshot": [
+      "Go",
+      "Logging",
+      "Security"
+    ],
+    "skill_tags_input": [
+      "backend",
+      "golang",
+      "observability",
+      "logging",
+      "security"
+    ],
+    "recommended_course_ids": [
+      "crs_0069",
+      "crs_0004",
+      "crs_0053"
+    ],
+    "recommended_titles_snapshot": [
+      "Scalable Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging (Capstone)",
+      "Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging at Scale",
+      "Production Go for Backend Services: Concurrency",
+      "APIs",
+      "and Logging"
+    ],
+    "rationale": "Scalable Go for Backend Services: Concurrency, APIs, and Logging (Capstone): strengthens backend/golang with practical patterns | Go for Backend Services: Concurrency, APIs, and Logging at Scale: strengthens golang/observability with practical patterns | Production Go for Backend Services: Concurrency, APIs, and Logging: strengthens observability/logging with practical patterns",
+    "plan_2weeks": "Week 1: crs_0069 (focus modules, ~7h) + apply to current work item | Week 2: crs_0004 (practice + mini-checklist, ~7h) | Stretch: crs_0053 (optional deep dive, 1–2 sessions)",
+    "delivery_channel": "Orchestrate Chat",
+    "user_feedback": null,
+    "_id": "rec_0040"
+  }
+]
