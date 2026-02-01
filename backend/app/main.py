@@ -4,7 +4,9 @@ from typing import Any, Dict, List, Optional
 
 import httpx
 from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
+from datetime import datetime, timezone
+
 
 app = FastAPI(title="MeritFlow API", version="0.2.0")
 
@@ -83,6 +85,15 @@ async def cloudant_ping():
         if resp.status_code != 200:
             raise HTTPException(status_code=resp.status_code, detail=resp.text)
         return {"ok": True, "dbs": resp.json()}
+    
+@app.get("/growth/recent")
+async def growth_recent(employee_id: str, limit: int = 10):
+    payload = {
+        "selector": {"employee_id": {"$eq": employee_id}},
+        "sort": [{"created_at": "desc"}],
+        "limit": min(limit, 50),
+    }
+    return await cloudant_find(DB_GROWTH, payload)
 
 
 # -----------------------
@@ -126,6 +137,26 @@ class KudosDecision(BaseModel):
     manager_id: str
     decision: str  # "approved" or "rejected"
     manager_comment: Optional[str] = None
+    
+class GrowthLogCreate(BaseModel):
+    employee_id: str
+    manager_id: Optional[str] = None
+    team_id: Optional[str] = None
+
+    based_on_event_ids: List[str] = Field(default_factory=list)
+
+    # extracted / chosen tags
+    skill_tags_input: List[str] = Field(default_factory=list)
+
+    # chosen courses
+    recommended_course_ids: List[str] = Field(default_factory=list)
+    recommended_titles_snapshot: List[str] = Field(default_factory=list)
+
+    rationale: str
+    plan_2weeks: str
+
+    delivery_channel: str = "orchestrate"
+    user_feedback: Optional[str] = None
 
 @app.post("/kudos/create")
 async def create_kudos(req: KudosCreate):
@@ -193,3 +224,35 @@ async def pulse_team(team_id: str, limit: int = 8):
         "limit": min(limit, 52),
     }
     return await cloudant_find(DB_PULSE, payload)
+
+
+
+@app.post("/growth/log")
+async def growth_log(req: GrowthLogCreate):
+    # unique id
+    reco_id = f"rec_{int(time.time())}"
+
+    doc: Dict[str, Any] = {
+        "_id": reco_id,
+        "reco_id": reco_id,
+        "created_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+
+        "employee_id": req.employee_id,
+        "manager_id": req.manager_id,
+        "team_id": req.team_id,
+
+        "based_on_event_ids": req.based_on_event_ids,
+
+        "skill_tags_input": req.skill_tags_input,
+        "recommended_course_ids": req.recommended_course_ids,
+        "recommended_titles_snapshot": req.recommended_titles_snapshot,
+
+        "rationale": req.rationale,
+        "plan_2weeks": req.plan_2weeks,
+
+        "delivery_channel": req.delivery_channel,
+        "user_feedback": req.user_feedback,
+    }
+
+    result = await cloudant_put(DB_GROWTH, reco_id, doc)
+    return {"ok": True, "result": result, "growth_reco": doc}
