@@ -58,6 +58,17 @@ async def cloudant_put(db: str, doc_id: str, doc: Dict[str, Any]) -> Dict[str, A
             raise HTTPException(status_code=resp.status_code, detail=resp.text)
         return resp.json()
 
+async def cloudant_get(db: str, doc_id: str) -> Dict[str, Any]:
+    token = await get_iam_token()
+    async with httpx.AsyncClient(timeout=30) as client:
+        resp = await client.get(
+            f"{CLOUDANT_URL}/{db}/{doc_id}",
+            headers={"Authorization": f"Bearer {token}"},
+        )
+        if resp.status_code != 200:
+            raise HTTPException(status_code=resp.status_code, detail=resp.text)
+        return resp.json()
+    
 
 @app.get("/health")
 def health():
@@ -110,6 +121,11 @@ class KudosCreate(BaseModel):
     values_tags: Optional[List[str]] = None
     related_event_id: Optional[str] = None
 
+class KudosDecision(BaseModel):
+    kudos_id: str
+    manager_id: str
+    decision: str  # "approved" or "rejected"
+    manager_comment: Optional[str] = None
 
 @app.post("/kudos/create")
 async def create_kudos(req: KudosCreate):
@@ -142,6 +158,27 @@ async def pending_kudos(manager_id: str, limit: int = 20):
         "limit": min(limit, 50),
     }
     return await cloudant_find(DB_KUDOS, payload)
+
+@app.post("/kudos/decision")
+async def kudos_decision(req: KudosDecision):
+    decision = req.decision.strip().lower()
+    if decision not in {"approved", "rejected"}:
+        raise HTTPException(status_code=400, detail="decision must be 'approved' or 'rejected'")
+
+    doc = await cloudant_get(DB_KUDOS, req.kudos_id)
+
+    if doc.get("manager_id") != req.manager_id:
+        raise HTTPException(status_code=403, detail="manager_id does not match kudos manager_id")
+
+    if doc.get("approval_status") != "pending":
+        return {"ok": True, "message": f"already {doc.get('approval_status')}", "kudos": doc}
+
+    doc["approval_status"] = decision
+    doc["decision_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    doc["manager_comment"] = req.manager_comment or ""
+
+    result = await cloudant_put(DB_KUDOS, doc["_id"], doc)
+    return {"ok": True, "result": result, "kudos": doc}
 
 
 # -----------------------
